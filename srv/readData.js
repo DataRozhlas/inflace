@@ -71,13 +71,15 @@ readXlsxFile("data/spot_kos2021.xlsx").then((rows) => {
   //     )
   //   );
   storeData(
-    makeTree(rows, {
-      id: "E",
-      name: "Úhrn",
-      jednotka1: null,
-      jednotka2: null,
-      vaha: 1000,
-    }),
+    [
+      makeTree(rows, {
+        id: "E",
+        name: "Úhrn",
+        jednotka1: null,
+        jednotka2: null,
+        vaha: 1000,
+      }),
+    ],
     "data/kos.json"
   );
 });
