@@ -21,71 +21,44 @@ Každý průměr je  zjednodušení, tudíž nemůže popsat skutečnost v celé
 
 Z [výpočtů ekonomů z CERGE](https://pep.vse.cz/pdfs/pep/2016/01/05.pdf) vyplývá, že jen kolem 60 procent domácností je vystaveno cenovým nárůstům v podobné výši jako průměrná míra inflace. Navíc čím vyšší je průměrná inflace, tím menší procento domácností bylo vystaveno nárůstu cen blízko tomuto průměru.
 
+„Po většinu sledovaného období byly nízkopříjmové domácnosti a domácnosti důchodců vystaveny signifikantně vyšším nárůstům cen, než byla míra inflace,“ píší Pavel Hait a Petr Janský.
 
-
-
-
-GRAF
-
-- buď reprezentativnost oficiální míry inflace z této práce, strana 9 (https://www.cerge-ei.cz/pdf/wp/Wp508.pdf)
-- nebo ČSÚ celková inflace/domácnosti důchodců/pražské domácnosti
+> GRAF2:
+>
+> buď reprezentativnost oficiální míry inflace z této práce, strana 9 (https://www.cerge-ei.cz/pdf/wp/Wp508.pdf)
+> nebo ČSÚ celková inflace/domácnosti důchodců/pražské domácnosti
 
 ## Spotřební koše se liší
 
 Číslo, které se nejčastěji používá, udává o kolik se zvýšila cena zboží a služeb v typickém [spotřebním koši](https://www.czso.cz/csu/czso/spotrebni_kos_archiv). V něm najdeme přes osm set položek od sušeného mléka a dětského míče až po poplatek za sepsání závěti a kremaci. Každá položka má přitom jinou váhu: potraviny 17,7 procenta, bydlení a energie 25 procent, vzdělávání půl procenta.
 
-
-
 Nejen tím, že mají jinou strukturu spotřeby, ale také nakupují na jiných místech. Například lidé kteří nemají auto bývají častěji odkázání na večerky, které jsou sice por ruce, ale ceny v nich bývají vyšší než v supermarketech či hypermarketech.
 
+>Graf 3: Spotřební koš tehdy a teď
 
 Složení spotřebního koše se v čase i prostoru mění: v italském jsou zastoupeny jiné potraviny než v polském, jinak vypadá současný český spotřební koš a ten z devadesátých let – v tom starém chybějí například přenosné počítače a mobilní telefony. Do indexu se obvykle nepočítají hazardní hry, drogy, spotřeba v zahraničí ani prostituce (narozdíl například od Francie).
+
+Váha (resp. význam), která je jednotlivým cenovým reprezentantům ve spotřebním koši přisouzena, odpovídá podílu daného druhu spotřeby, který zastupují, na celkové spotřebě domácností.
+
+Aby byl výpočet aktuální, [mění se každé dva roky váhy položek ve spotřebním koši](https://www.czso.cz/csu/czso/spotrebni_kos_archiv), každoročně se mírně mění výběr cenových reprezentantů dle reálné potřeby nebo požadavků EU.
 
 Složení spotřebního koše přitom může výsledek výpočtu zásadně ovlivnit. Britská kuchařka Jack Monroe, která se zaměřuje na propagaci levných, zdravých a jednoduchých receptů, [upozorňuje](https://twitter.com/BootstrapCook/status/1483778776697909252), že zatímco ceny základních surovin jako je nejlevnější rýže nebo těstoviny se od loňska zvýšily několikanásobně, po zařazení luxusnějších položek, jejichž ceny spíše stagnují, vychází inflace na vcelku přijatelných 5 procent. Pro chudší lidi je ale daleko vyšší.
 
 „Rozpaluje mě do běla, že cenové indexy, které se používají k těmto výpočtům, hrubě podceňují skutečné náklady, které v souvislosti s inflací pociťují ti nejchudší. (...) Sytém, který používáme pro měření inflace je od základu chybný, zcela ignoruje realitu a SKUTEČNÉ zvýšení cen pro lidi s minimální mzdou, bez stálého zaměstnání, klienty potravinových bank a miliony dalších,“ [píše Monroe](https://twitter.com/BootstrapCook/status/1483778776697909252).
 
 
-## Kumulativní inflace pro různé podskupiny
-
-Demokratická/plutokratická (ČSÚ) definice.
-
-
-Na inflaci jsou přitom často navázány valorizace důchodů, sociálních dávek nebo i pracovně-právních smluv.
-
-Studie ekonomů v minulosti ukázaly, že zhruba na 60 % domácností dopadá inflace v podobné výši jako je ta průměrná. „Oi většinu sledovaného období byly nízkopříjmové domácnosti a domácnosti důchodců vystaveny signifikantně vyšším nárůstům cen, než byla míra inflace,“
-
-## Která ze 12 skupin nejvíc přispívá k inflaci
-
-## Podskupiny
-
-## Jak vznikají váhy položek ve spotřebním koši
-
-Indexy měří, jak se v čase mění konečné ceny (včetně daní) výrobků a služeb, které lidé nakupují.
-
-Váha (resp. význam), která je jednotlivým cenovým reprezentantům ve spotřebním koši přisouzena, odpovídá podílu daného druhu spotřeby, který zastupují, na celkové spotřebě domácností.
-
-Váhy vycházejí z národního konceptu konečné peněžní spotřeby domácností, tj. zejména zde není zahrnuta spotřeba v zahraničí a naturální spotřeba. Nejsou pokryty drogy, prostituce, hazardní hry, životní pojištění a FISIM. Koncept imputovaného nájemného je odlišný od národních účtů
-
-Aby byl výpočet aktuální, [mění se každé dva roky váhy položek ve spotřebním koši](https://www.czso.cz/csu/czso/spotrebni_kos_archiv), každoročně se mírně mění výběr cenových reprezentantů dle reálné potřeby nebo požadavků EU.
-
-## Indexy spotřebitelských cen jako otevřená data
-
-https://www.czso.cz/csu/czso/indexy-spotrebitelskych-cen
+>Graf 4: Která ze 12 skupin nejvíc přispívá k inflaci
 
 <div id="root"></div>
 
-https://www.idnes.cz/ekonomika/domaci/csu-inflace-rojicek-kos-ceny-zdrazovani.A210909_154749_ekonomika_ven
+posilující koruna přispívá ke snižování inflace (levnější dovoz, slabší odbyt exportérů...) a velmi zjednodušeně jsou tak dopady posilující koruny podobné jako dopady navýšení sazeb
 
-"Když do světa nedostatku zboží naházíte peníze, nemůže to vyhřeznout nikde jinde než v cenách. Je naprosto nabíledni, že už začaly blikat kontrolky i centřrálním bankám a že centrálním bankéřům začaly bloikat kontrolky, jestli jsme to náhodou nepřepískli. Pokud by měla inflace pokračovat tempem 4 5 procent, aspoň to, co se oficiálně uvádí. Ten, kdo rekonstruuje, ví, ež v reálu je inflace 30, 50 priocent. Pokud by inflace mlěa pokračovat tímto tempem, lidé přestanou důvěřovat měně jako uchovateli hodnoty. To je větší průšvih než nějaKÝ DOČASNÝ NÁRŮST CEN ENERGIÍ."
+Z velké části je inflace hnána tzv. imputovaným nájemným, to zahrnuje ceny nových bytů a domů, náklady na jejich renovaci a údržbu ale i platbu za realitní zprostředkování. Inflace ale není hnána pouze tuzemskými faktory. Velkou zásluhu mají i poruchy ve světových výrobních a dodavatelských řetězcích, které způsobují nedostatek například počítačových čipů.
 
-BÝVALÝ ŘEDITEL J T INVESTIČNÍ SPOLEČNOSRT DANIEL DRAHOTSKÝ https://open.spotify.com/episode/0WKKHYEFswUOCyujFeGQQJ?si=9w0ibiTzTMq6VAq5ECs8jQ
+Na první pohled je už v českých obchodech vidět i zdražování potravin. Podle viceguvernéra ČNB Marka Mory nás to největší zdražování teprve čeká a míra inflace bude nejvyšší za posledních 20 let.
 
-stagflace - ekonomika reálně neroste, protože inflace přesahuje ekonomický růst.
+Cena za tukový rohlík překonala magickou hranici 2 Kč a v některých obchodech se prodává i za 2,30 Kč. Ceny se zvyšují prakticky u všech druhů zboží. Nejvíce je to znát u margarinů, které některé obchody zdražily i o 10 Kč.
 
-bude klesat kupní síla mezd
-
-https://investice.hn.cz/c1-66995800-jak-preckat-prudky-narust-inflace-zde-jsou-tipy-jak-vase-uspory-jeste-zachranit
 
 Klasický pohled [formuloval v 60. letech Milton Friedman](https://miltonfriedman.hoover.org/internal/media/dispatcher/271018/full). Inflace je podle něj „vždy a všude peněžním jevem“, který vzniká, když centrální banky pouštějí do oběhu víc peněz, než by odpovídalo hodnotě toho, co ekonomika skutečně vyprodukuje.
 
@@ -130,11 +103,16 @@ https://finmag.penize.cz/penize/261859-pozitivni-vliv-inflace
 
 Ceny v eurozóně tak rostou nejrychleji od zavedení eura (před dvaceti lety). Za vysokým růstem stojí zejména ceny energií (inflace bez energií = 2,5 %).
 
-posilující koruna přispívá ke snižování inflace (levnější dovoz, slabší odbyt exportérů...) a velmi zjednodušeně jsou tak dopady posilující koruny podobné jako dopady navýšení sazeb
 
-Z velké části je inflace hnána tzv. imputovaným nájemným, to zahrnuje ceny nových bytů a domů, náklady na jejich renovaci a údržbu ale i platbu za realitní zprostředkování. Inflace ale není hnána pouze tuzemskými faktory. Velkou zásluhu mají i poruchy ve světových výrobních a dodavatelských řetězcích, které způsobují nedostatek například počítačových čipů.
+https://www.idnes.cz/ekonomika/domaci/csu-inflace-rojicek-kos-ceny-zdrazovani.A210909_154749_ekonomika_ven
 
-Na první pohled je už v českých obchodech vidět i zdražování potravin. Podle viceguvernéra ČNB Marka Mory nás to největší zdražování teprve čeká a míra inflace bude nejvyšší za posledních 20 let.
+"Když do světa nedostatku zboží naházíte peníze, nemůže to vyhřeznout nikde jinde než v cenách. Je naprosto nabíledni, že už začaly blikat kontrolky i centřrálním bankám a že centrálním bankéřům začaly bloikat kontrolky, jestli jsme to náhodou nepřepískli. Pokud by měla inflace pokračovat tempem 4 5 procent, aspoň to, co se oficiálně uvádí. Ten, kdo rekonstruuje, ví, ež v reálu je inflace 30, 50 priocent. Pokud by inflace mlěa pokračovat tímto tempem, lidé přestanou důvěřovat měně jako uchovateli hodnoty. To je větší průšvih než nějaKÝ DOČASNÝ NÁRŮST CEN ENERGIÍ."
 
-Cena za tukový rohlík překonala magickou hranici 2 Kč a v některých obchodech se prodává i za 2,30 Kč. Ceny se zvyšují prakticky u všech druhů zboží. Nejvíce je to znát u margarinů, které některé obchody zdražily i o 10 Kč.
+BÝVALÝ ŘEDITEL J T INVESTIČNÍ SPOLEČNOSRT DANIEL DRAHOTSKÝ https://open.spotify.com/episode/0WKKHYEFswUOCyujFeGQQJ?si=9w0ibiTzTMq6VAq5ECs8jQ
+
+stagflace - ekonomika reálně neroste, protože inflace přesahuje ekonomický růst.
+
+bude klesat kupní síla mezd
+
+https://investice.hn.cz/c1-66995800-jak-preckat-prudky-narust-inflace-zde-jsou-tipy-jak-vase-uspory-jeste-zachranit
 
