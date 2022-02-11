@@ -15,10 +15,15 @@ Přibývá ekonomů, kteří si všímají, že v případě inflace může být
 >GRAF 1
 
 >Jsou čtyři základní čísla, která se v médiích objevují v souvislosti s inflací
+
 >Všechna vyjadřují změnu spotřebitelských cen, liší se v tom, jaké období sledují a s jakým obdobím ho porovnávají
+
 >Meziměsíční – Zvýšení nebo snížení průměrných cen v daném měsíci ve srovnání s předchozím měsícem. Nejvýraznější bývá zdražování v lednu, kdy vstupují v platnost nové ceníky, ale například i nové sazby daní
+
 >Meziroční – Zvýšení nebo snížení průměrných cen v daném měsíci ve srovnání se stejným měsícem předchozího roku. Vylučuje sezónní výkyvy tím, že se porovnávají stejné měsíce
+
 >Klouzavý průměr za 12 měsíců – Zvýšení nebo snížení průměrných cen za posledních 12 měsíců ve srovnání s průměrem předchozích 12 měsíců. Bere se v úvahu zejména při propočtech reálných mezd a důchodů
+
 > Průměrná roční míra inflace. Výsedek klouzavého průměru každý rok v prosinci. Slouží hlavně k historickému porovnání (1991 byla 56,6 %, 1993 20,8 %, 1998 10,7 %)
 
 
