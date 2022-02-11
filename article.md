@@ -1,4 +1,4 @@
-title: "Inflace jako daň pro nejchudší: Jak se vaše osobní inflace liší od průměru?"
+title: "Zdražování jako dodatečná daň pro nejchudší: Jak se vaše osobní inflace liší od průměru?"
 perex: "Průměrná meziroční inflace, o níž se z médií dozvídáme nejčastěji, vyjadřuje skutečně zažívanou inflaci jen asi 60 % domácností. Čím rychleji ceny stoupají, tím víc je těch, kteří zdražování na vlastní kůži pociťují jinak než průměrně. Nejpalčivější problém představuje pro ty, kdo za energie a potraviny utratí největší část svých příjmů."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
@@ -8,16 +8,20 @@ options: [noheader, nopic] #wide, noheader (, nopic)
 
 ---
 
-Nejen důchody, ale i sociální dávky jako příspěvek na bydlení, regulované ceny pošty a telefonních operátorů, honoráře pro autory, majetkové vyrovnání s církvemi, nájemné, platy... to všechno je v zákonech a smlouvách navázáno na _průměrnou_ míru inflace, jak ji [počítá a zveřejňuje Český statistický úřad](https://www.czso.cz/csu/czso/inflace_spotrebitelske_ceny).
+Důchody, sociální dávky, regulované ceny, honoráře, majetková vyrovnání, nájemné i platy... to všechno bývá v zákonech a smlouvách navázáno na _průměrnou_ míru inflace, jak ji [počítá a zveřejňuje Český statistický úřad](https://www.czso.cz/csu/czso/inflace_spotrebitelske_ceny).
 
-Každý průměr je  zjednodušení, tudíž nemůže popsat skutečnost v celé šíři ani ve všech odstínech. Přibývá ekonomů, kteří si všímají, že v případě inflace může být tohle zjednodušení zavádějící. Vést nás ke špatným rozhodnutím.
+Přibývá ekonomů, kteří si všímají, že v případě inflace může být průměr zavádějící a vést nás ke špatným rozhodnutím.
 
->GRAF 1: Oficiální míra inflace za celý rok 2021 byla 3,8 %. Je to nejvíc od roku 2008.
->Co nejdelší časová řada. Přepínaní nebo small multiples čtyř nejčastěji používaných měr inflace:
->1. Míra inflace vyjádřená přírůstkem průměrného ročního indexu spotřebitelských cen
->2. Průměrná roční míra inflace
->3. Míra inflace vyjádřená přírůstkem indexu spotřebitelských cen ke stejnému měsíci předchozího roku
->4. Míra inflace vyjádřená přírůstkem indexu spotřebitelských cen k předchozímu měsíci
+>GRAF 1
+
+>Jsou čtyři základní čísla, která se v médiích objevují v souvislosti s inflací
+>Všechna vyjadřují změnu spotřebitelských cen, liší se v tom, jaké období sledují a s jakým obdobím ho porovnávají
+>Meziměsíční – Zvýšení nebo snížení průměrných cen v daném měsíci ve srovnání s předchozím měsícem. Nejvýraznější bývá zdražování v lednu, kdy vstupují v platnost nové ceníky, ale například i nové sazby daní
+>Meziroční – Zvýšení nebo snížení průměrných cen v daném měsíci ve srovnání se stejným měsícem předchozího roku. Vylučuje sezónní výkyvy tím, že se porovnávají stejné měsíce
+>Klouzavý průměr za 12 měsíců – Zvýšení nebo snížení průměrných cen za posledních 12 měsíců ve srovnání s průměrem předchozích 12 měsíců. Bere se v úvahu zejména při propočtech reálných mezd a důchodů
+> Průměrná roční míra inflace. Výsedek klouzavého průměru každý rok v prosinci. Slouží hlavně k historickému porovnání (1991 byla 56,6 %, 1993 20,8 %, 1998 10,7 %)
+
+
 
 Z [výpočtů ekonomů z CERGE](https://pep.vse.cz/pdfs/pep/2016/01/05.pdf) vyplývá, že jen kolem 60 procent domácností je vystaveno cenovým nárůstům v podobné výši jako průměrná míra inflace. Navíc čím vyšší je průměrná inflace, tím menší procento domácností bylo vystaveno nárůstu cen blízko tomuto průměru.
 
