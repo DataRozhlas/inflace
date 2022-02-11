@@ -2,6 +2,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App.jsx";
+import Kalkulacka from "./Kalkulacka.jsx";
+
+ReactDOM.render(<Kalkulacka />, document.getElementById("kalkulacka"));
 
 ReactDOM.render(<App />, document.getElementById("root"));
 

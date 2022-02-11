@@ -1,8 +1,8 @@
 title: "Zdražování jako dodatečná daň pro nejchudší: Jak se vaše osobní inflace liší od průměru?"
-perex: "Průměrná meziroční inflace, o níž se z médií dozvídáme nejčastěji, vyjadřuje skutečně zažívanou inflaci jen asi 60 % domácností. Čím rychleji ceny stoupají, tím víc je těch, kteří zdražování na vlastní kůži pociťují jinak než průměrně. Nejpalčivější problém představuje pro ty, kdo za energie a potraviny utratí největší část svých příjmů."
+perex: "Průměrná meziroční inflace, o níž se z médií dozvídáme nejčastěji, vystihuje skutečně zažívanou inflaci jen asi 60 % domácností. Čím rychleji ceny stoupají, tím víc je těch, kteří zdražování na vlastní kůži pociťují jinak. Nejpalčivější problém představuje pro ty, kdo za energie a potraviny utratí největší část svých příjmů."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
-styles: []
+styles: ["https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"]
 libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 
@@ -27,6 +27,8 @@ Přibývá ekonomů, kteří si všímají, že v případě inflace může být
 > Průměrná roční míra inflace. Výsedek klouzavého průměru každý rok v prosinci. Slouží hlavně k historickému porovnání (1991 byla 56,6 %, 1993 20,8 %, 1998 10,7 %)
 
 
+Co to v praxi znamená pro vaše úspory si můžete ověřit v kalkulačce (zadané údaje se nikam neukládají):
+<div id="kalkulacka"></div>
 
 Z [výpočtů ekonomů z CERGE](https://pep.vse.cz/pdfs/pep/2016/01/05.pdf) vyplývá, že jen kolem 60 procent domácností je vystaveno cenovým nárůstům v podobné výši jako průměrná míra inflace. Navíc čím vyšší je průměrná inflace, tím menší procento domácností bylo vystaveno nárůstu cen blízko tomuto průměru.
 
