@@ -1,5 +1,5 @@
-title: "Inflace jako sektorová daň pro nejchudší: Jak se vaše osobní inflace liší od průměru?"
-perex: "Průměrná inflace, o níž se z médií dozvídáme nejčastěji, vyjadřuje skutečně zažívanou inflaci jen asi 60 % domácností. Čím je průměrná inflace vyšší, tím víc je těch, kteří zdražování na vlastní kůži pociťují jinak. Nejhorší je znehodnocvání peněz pro chudší lidi, kteří za nejrychleji zdražující položky jako je energie a potraviny utrácejí největší část svých příjmů."
+title: "Inflace jako daň pro nejchudší: Jak se vaše osobní inflace liší od průměru?"
+perex: "Průměrná meziroční inflace, o níž se z médií dozvídáme nejčastěji, vyjadřuje skutečně zažívanou inflaci jen asi 60 % domácností. Čím rychleji ceny stoupají, tím víc je těch, kteří zdražování na vlastní kůži pociťují jinak než průměrně. Nejpalčivější problém představuje pro ty, kdo za energie a potraviny utratí největší část svých příjmů."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
 styles: []
