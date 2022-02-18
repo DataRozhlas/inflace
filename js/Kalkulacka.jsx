@@ -30,12 +30,13 @@ const Kalkulacka = () => {
   const [rok, setRok] = React.useState(2012);
   const [castka, setCastka] = React.useState(1000);
   return (
-    <Stack
-      direction="row"
-      sx={{
+    <div
+      style={{
         display: "flex",
         alignItems: "baseline",
-        marginBottom: "1rem",
+        flexWrap: "wrap",
+        gap: "0.6rem",
+        marginBottom: "1.2rem",
       }}
     >
       <TextField
@@ -52,7 +53,7 @@ const Kalkulacka = () => {
         value={castka}
         onChange={(e) => setCastka(Number(e.target.value))}
       />
-      <Typography variant="body">&nbsp;z roku&nbsp;</Typography>
+      <Typography variant="body">z roku</Typography>
       <TextField
         id="rok"
         type="number"
@@ -67,11 +68,11 @@ const Kalkulacka = () => {
           min: minRok,
         }}
         onChange={(e) => setRok(Number(e.target.value))}
-      />{" "}
+      />
       <Typography variant="body1">
-        &nbsp; má letos hodnotu {spocitejInflaci(castka, rok, rocniInflace)} Kč.
+        má letos hodnotu {spocitejInflaci(castka, rok, rocniInflace)} Kč.
       </Typography>
-    </Stack>
+    </div>
   );
 };
 
