@@ -1,5 +1,5 @@
-title: "Zdražování jako dodatečná daň pro nejchudší: Jak se vaše osobní inflace liší od průměru?"
-perex: "Průměrná meziroční inflace, o níž se z médií dozvídáme nejčastěji, vystihuje skutečně zažívanou inflaci jen asi 60 % domácností. Čím rychleji ceny stoupají, tím víc je těch, kteří zdražování na vlastní kůži pociťují jinak. Nejpalčivější problém představuje pro ty, kdo za energie a potraviny utratí největší část svých příjmů."
+title: "Zdražování jako dodatečná daň: Jak se vaše osobní inflace liší od průměru?"
+perex: "Průměrná inflace, o níž se dozvídáme a přemýšlíme nejčastěji, vystihuje skutečně zažívanou inflaci jen asi 60 % domácností. Čím rychleji ceny stoupají, tím víc je těch, kdo zdražování pociťují jinak. Na rodiny, které za energie a potraviny utratí největší část příjmů, může reálná inflace dopadnout podstatně tvrději než by odpovídalo – už tak alarmujícímu – průměru, který se nejčastěji objevuje v médiích."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
 styles: ["https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"]
@@ -8,27 +8,30 @@ options: [noheader, nopic] #wide, noheader (, nopic)
 
 ---
 
-Důchody, sociální dávky, regulované ceny, honoráře, majetková vyrovnání, nájemné i platy... to všechno bývá v zákonech a smlouvách navázáno na _průměrnou_ míru inflace, jak ji [počítá a zveřejňuje Český statistický úřad](https://www.czso.cz/csu/czso/inflace_spotrebitelske_ceny).
+Důchody, sociální dávky, regulované ceny, honoráře. Majetková vyrovnání, nájemné i platy. Všechno bývá v zákonech a smlouvách navázáno na _průměrnou_ míru inflace, jak ji [počítá a zveřejňuje Český statistický úřad](https://www.czso.cz/csu/czso/inflace_spotrebitelske_ceny).
 
-Přibývá ekonomů, kteří si všímají, že v případě inflace může být průměr zavádějící a vést nás ke špatným rozhodnutím.
+Zleva i zprava přibývá ekonomů, kteří upozorňují, že podobně [jako u mezd](https://www.statistikaamy.cz/o-slozitem-jednoduse/ostre-sledovana-mzda-prumer-a-median/) i v případě inflace může být průměr zavádějící a dovést nás ke špatným rozhodnutím, takže valorizovat o průměrnou inflaci může být v něterých případech podobně účinné jako ošetřovat náplastí otevřenu zlomeninu.
 
 >GRAF 1
 
->Jsou čtyři základní čísla, která se v médiích objevují v souvislosti s inflací
+>Jsou čtyři základní čísla, která se pravidelně objevují v souvislosti s inflací
 
->Všechna vyjadřují změnu spotřebitelských cen, liší se v tom, jaké období sledují a s jakým obdobím ho porovnávají
+>Všechna vyjadřují vážený průměr změn spotřebitelských cen. Liší se v tom, jaké období sledují a s jakým obdobím ho porovnávají.
 
->Meziměsíční – Zvýšení nebo snížení průměrných cen v daném měsíci ve srovnání s předchozím měsícem. Nejvýraznější bývá zdražování v lednu, kdy vstupují v platnost nové ceníky, ale například i nové sazby daní
+>- Meziměsíční – Zvýšení nebo snížení průměrných cen v daném měsíci ve srovnání s předchozím měsícem. Nejvýraznější bývá zdražování v lednu, kdy vstupují v platnost nové ceníky, ale například i nové sazby daní.
 
->Meziroční – Zvýšení nebo snížení průměrných cen v daném měsíci ve srovnání se stejným měsícem předchozího roku. Vylučuje sezónní výkyvy tím, že se porovnávají stejné měsíce
+>- Meziroční – Zvýšení nebo snížení průměrných cen v daném měsíci ve srovnání se stejným měsícem předchozího roku. Vylučuje sezónní výkyvy tím, že se porovnávají stejné měsíce.
 
->Klouzavý průměr za 12 měsíců – Zvýšení nebo snížení průměrných cen za posledních 12 měsíců ve srovnání s průměrem předchozích 12 měsíců. Bere se v úvahu zejména při propočtech reálných mezd a důchodů
+>- Klouzavý průměr za 12 měsíců – Zvýšení nebo snížení průměrných cen za posledních 12 měsíců ve srovnání s průměrem předchozích 12 měsíců. Bere se v úvahu zejména při propočtech reálných mezd a důchodů.
 
-> Průměrná roční míra inflace. Výsedek klouzavého průměru každý rok v prosinci. Slouží hlavně k historickému porovnání (1991 byla 56,6 %, 1993 20,8 %, 1998 10,7 %)
+>- Průměrná roční míra inflace. Číslo, které „vstupuje do historie“. Výsledek klouzavého průměru každý rok v prosinci. Slouží hlavně k porovnání dlouhých časových řad (1991 byla 56,6 %, 1993 20,8 %, 1998 10,7 %).
 
+Pokud se vaše osobní spotřeba kryje s [průměrným spotřebním košem](https://www.czso.cz/csu/czso/spotrebni_kos_archiv), mohli jste si v roce 2021 za stejné peníze koupit o 3,8 procenta míň věcí a služeb než v prvním roce pandemie. (Ponechejme teď stranou, že dlouhodobě zavření lidé a provozovny nakupovali i prodávali jinak než bylo před covidem obvyklé a mimořádná situace [zamávala i zaběhnutou metodikou](https://www.czso.cz/csu/czso/metodicke-poznamky-k-indexu-spotrebitelskych-cen-covid-19) výpočtu.)
 
-Co to v praxi znamená pro vaše úspory si můžete ověřit v kalkulačce (zadané údaje se nikam neukládají):
+V transformačním roce 1991, poté co stát přestal většinu cen diktovat a nechal je psát volně rukou trhu, stoupla cenová hladina víc než o polovinu. Co to mohlo znamenat pro vaše úspory, si můžete ověřit v kalkulačce (zadané údaje se nikam neukládají):
 <div id="kalkulacka"></div>
+
+## Signifikantně vyšší nárůst
 
 Z [výpočtů ekonomů z CERGE](https://pep.vse.cz/pdfs/pep/2016/01/05.pdf) vyplývá, že jen kolem 60 procent domácností je vystaveno cenovým nárůstům v podobné výši jako průměrná míra inflace. Navíc čím vyšší je průměrná inflace, tím menší procento domácností bylo vystaveno nárůstu cen blízko tomuto průměru.
 
@@ -39,37 +42,42 @@ Z [výpočtů ekonomů z CERGE](https://pep.vse.cz/pdfs/pep/2016/01/05.pdf) vypl
 > buď reprezentativnost oficiální míry inflace z této práce, strana 9 (https://www.cerge-ei.cz/pdf/wp/Wp508.pdf)
 > nebo ČSÚ celková inflace/domácnosti důchodců/pražské domácnosti
 
-## Spotřební koše se liší
+## Od sunaru po kremaci
 
-Číslo, které se nejčastěji používá, udává o kolik se zvýšila cena zboží a služeb v typickém [spotřebním koši](https://www.czso.cz/csu/czso/spotrebni_kos_archiv). V něm najdeme přes osm set položek od sušeného mléka a dětského míče až po poplatek za sepsání závěti a kremaci. Každá položka má přitom jinou váhu: potraviny 17,7 procenta, bydlení a energie 25 procent, vzdělávání půl procenta.
+Číslo, které se pro vyjádření inflace nejčastěji používá, udává o kolik se zvýšil vážený průměr cen zboží a služeb v typickém [spotřebním koši](https://www.czso.cz/csu/czso/spotrebni_kos_archiv). V něm nyní najdeme přes osm set položek („reprezentantů“) od kondomu, sušeného mléka a dětského míče až po poplatek za sepsání závěti a kremaci. Každá položka má přitom přesně stanovenou váhu: potraviny celkem 17,7 procenta, bydlení a energie 25 procent, vzdělávání půl procenta.
 
-Nejen tím, že mají jinou strukturu spotřeby, ale také nakupují na jiných místech. Například lidé kteří nemají auto bývají častěji odkázání na večerky, které jsou sice por ruce, ale ceny v nich bývají vyšší než v supermarketech či hypermarketech.
+Statistici při tom vycházejí z [národních účtů](https://www.czso.cz/documents/10180/24433595/32019814c05.pdf/a7e7254f-6289-4ce5-bc36-08060537db92?version=1.0) a ze [statistiky rodinných účtů](https://www.czso.cz/csu/vykazy/statistika_rodinnych_uctu). Váha, kterou jednotlivým cenovým reprezentantům ve spotřebním koši přisuzují, odpovídá podílu spotřeby, kterou zastupují, na celkové spotřebě domácností.
+
+Tazatelé potom zjišťují ceny buď tak, že přímo zajdou či zavolají do reprezentativní sítě obchodů, podívají se na internet nebo zpracují [data z pokladen maloobchodních řetězců](https://www.czso.cz/csu/czso/scanner-data).
+
+[Systém je podstatně propracovanější](https://www.czso.cz/documents/10180/26822363/manual_isc_2021.pdf/06963cd6-53d0-4b9b-9f7e-b7465060ff71?version=1.5) než před sto lety, kdy s ním Čechoslováci začínali. Tehdy sledovali vývoj cen 41 položek rozdělených jen do dvou skupin: potraviny, palivo, petrolej, mýdlo a látky, obuv, klobouky.
+
+Přesto se stále jedná o zjednodušení: výdaje jednotlivých domácností se od sebe liší nejen tím, co nakupují, ale také nakupují to také na jiných místech. Například lidé, kteří nemají auto, bývají častěji odkázání na večerky, které jsou sice po ruce, ale ceny v nich bývají vyšší než v supermarketech či hypermarketech. Do zveřejňovaných statistických výkazů se nicméně dostane u každé ceny každé položky opět průměr.
 
 >Graf 3: Spotřební koš tehdy a teď
 
-Složení spotřebního koše se v čase i prostoru mění: v italském jsou zastoupeny jiné potraviny než v polském, jinak vypadá současný český spotřební koš a ten z devadesátých let – v tom starém chybějí například přenosné počítače a mobilní telefony. Do indexu se obvykle nepočítají hazardní hry, drogy, spotřeba v zahraničí ani prostituce (narozdíl například od Francie).
+Složení statistického spotřebního koše se v čase i prostoru mění: v italském jsou zastoupeny jiné potraviny než v polském, jinak vypadá současný český spotřební koš a ten z devadesátých let. V tom starém chybějí například přenosné počítače nebo účty za mobilní telefony. Do spotřeby domácností se u nás nepočítá útrata v zahraničí, naturálie, hazardní hry, drogy – s výjimkou cigaret a alkoholu – ani prostituce.
 
-Váha (resp. význam), která je jednotlivým cenovým reprezentantům ve spotřebním koši přisouzena, odpovídá podílu daného druhu spotřeby, který zastupují, na celkové spotřebě domácností.
+Aby byl výpočet aktuální, [mění se každý roky váhy položek ve spotřebním koši](https://www.czso.cz/csu/czso/spotrebni_kos_archiv). Jak jde čas, [mění se i výběr cenových reprezentantů](https://www.novinky.cz/ekonomika/clanek/tablet-digitalni-teplomer-nebo-kondomy-statistici-meni-seznamy-pro-vypocet-inflace-290296) dle požadavků EU nebo podle toho, jak se mění životní styl a preference lidí. Konečné rozhodnutí je v rukou statistického úřadu, který jej konzultuje s Poradní komise pro statistiku spotřebitelských cen, ve které zasedají zástupci ministerstev, ČNB, výzkumných ústavů, VŠE, odborových svazů, organizací důchodců a vybraných odborů ČSÚ.
 
-Aby byl výpočet aktuální, [mění se každé dva roky váhy položek ve spotřebním koši](https://www.czso.cz/csu/czso/spotrebni_kos_archiv), každoročně se mírně mění výběr cenových reprezentantů dle reálné potřeby nebo požadavků EU.
+## Luxusnější položky
 
-Složení spotřebního koše přitom může výsledek výpočtu zásadně ovlivnit. Britská kuchařka Jack Monroe, která se zaměřuje na propagaci levných, zdravých a jednoduchých receptů, [upozorňuje](https://twitter.com/BootstrapCook/status/1483778776697909252), že zatímco ceny základních surovin jako je nejlevnější rýže nebo těstoviny se od loňska zvýšily několikanásobně, po zařazení luxusnějších položek, jejichž ceny spíše stagnují, vychází inflace na vcelku přijatelných 5 procent. Pro chudší lidi je ale daleko vyšší.
+Složení spotřebního koše totiž může výsledek výpočtu zásadně ovlivnit. Britská kuchařka Jack Monroe, která se zaměřuje na propagaci levných, zdravých a jednoduchých receptů, [upozorňuje](https://twitter.com/BootstrapCook/status/1483778776697909252), že zatímco ceny základních surovin jako je nejlevnější rýže nebo těstoviny se od loňska zvýšily několikanásobně, po zařazení luxusnějších položek, jejichž ceny spíše stagnují, vychází britská inflace na vcelku přijatelných 5 procent. Pro chudší lidi je ale daleko vyšší.
 
-„Rozpaluje mě do běla, že cenové indexy, které se používají k těmto výpočtům, hrubě podceňují skutečné náklady, které v souvislosti s inflací pociťují ti nejchudší. (...) Sytém, který používáme pro měření inflace je od základu chybný, zcela ignoruje realitu a SKUTEČNÉ zvýšení cen pro lidi s minimální mzdou, bez stálého zaměstnání, klienty potravinových bank a miliony dalších,“ [píše Monroe](https://twitter.com/BootstrapCook/status/1483778776697909252).
+„Rozpaluje mě do běla, že cenové indexy, které se používají k těmto výpočtům, hrubě podceňují skutečné náklady, které v souvislosti s inflací pociťují ti nejchudší. (...) Systém, který používáme pro měření inflace je od základu chybný, zcela ignoruje realitu a SKUTEČNÉ zvýšení cen pro lidi s minimální mzdou, bez stálého zaměstnání, klienty potravinových bank a miliony dalších,“ [píše Monroe](https://twitter.com/BootstrapCook/status/1483778776697909252).
 
-
->Graf 4: Která ze 12 skupin nejvíc přispívá k inflaci
+>Graf 4: Co ve spotřebním koši nejvíc zdražuje, co naopak zlevňuje
 
 <div id="root"></div>
 
-posilující koruna přispívá ke snižování inflace (levnější dovoz, slabší odbyt exportérů...) a velmi zjednodušeně jsou tak dopady posilující koruny podobné jako dopady navýšení sazeb
+Cena za tukový rohlík překonala magickou hranici 2 Kč a v některých obchodech se prodává i za 2,30 Kč. Ceny se zvyšují prakticky u všech druhů zboží. Nejvíce je to znát u margarinů, které některé obchody zdražily i o 10 Kč.
+
+## Čím je inflace způsobená
+
 
 Z velké části je inflace hnána tzv. imputovaným nájemným, to zahrnuje ceny nových bytů a domů, náklady na jejich renovaci a údržbu ale i platbu za realitní zprostředkování. Inflace ale není hnána pouze tuzemskými faktory. Velkou zásluhu mají i poruchy ve světových výrobních a dodavatelských řetězcích, které způsobují nedostatek například počítačových čipů.
 
-Na první pohled je už v českých obchodech vidět i zdražování potravin. Podle viceguvernéra ČNB Marka Mory nás to největší zdražování teprve čeká a míra inflace bude nejvyšší za posledních 20 let.
-
-Cena za tukový rohlík překonala magickou hranici 2 Kč a v některých obchodech se prodává i za 2,30 Kč. Ceny se zvyšují prakticky u všech druhů zboží. Nejvíce je to znát u margarinů, které některé obchody zdražily i o 10 Kč.
-
+Zvyšující se úrokové sazby a posilující koruna naopak přispívají ke snižování inflace (levnější dovoz, slabší odbyt exportérů...). Je ale potřeba vždy plánovat s očekáváním lidí a firem a sazby zvyšovat dřív než se inflace rozjede.
 
 Klasický pohled [formuloval v 60. letech Milton Friedman](https://miltonfriedman.hoover.org/internal/media/dispatcher/271018/full). Inflace je podle něj „vždy a všude peněžním jevem“, který vzniká, když centrální banky pouštějí do oběhu víc peněz, než by odpovídalo hodnotě toho, co ekonomika skutečně vyprodukuje.
 
@@ -127,3 +135,35 @@ bude klesat kupní síla mezd
 
 https://investice.hn.cz/c1-66995800-jak-preckat-prudky-narust-inflace-zde-jsou-tipy-jak-vase-uspory-jeste-zachranit
 
+Ještě zapracovat:
+
+Japonsko: https://www.ft.com/content/d7680c3c-0bea-4531-9154-ce291d5f9d77
+
+ČBA prognóza: https://cbaonline.cz/makroekonomicka-prognoza-cba-1q-2022
+
+ČNB prognóza: https://www.cnb.cz/cs/menova-politika/prognoza/
+
+PAQ IDEA zdražení domácnostem: https://idea.cerge-ei.cz/images/COVID/PAQ_Research/2135_Energie_v27.pdf
+
+Platy versus inflace:
+https://www.ft.com/content/b49d95f3-1853-4fcf-95f8-5f6103dea989
+https://www.ft.com/content/ae3dbaba-11a4-41b5-a408-9fac0c0457dc
+
+https://www.ft.com/content/f7d22665-ef31-47ec-8c90-e614242d91c7
+
+Ve finanční krizi se politici naučili, že řešení problémů je tisknout peníze, teď k tomu opět sáhli.
+
+Karpiš
+
+https://www.youtube.com/watch?v=KL4b6NACoLE
+Je to jen začátek inflace? Změna inflačního paradigmatu. Báli jsme se spíš deflace. Trhy stále věří, že je to jen přechodná věc.
+
+Aby to funbgovalo, musí centrální banka předběhnout inflační očekávání. Místo tištění peněz peníze ničit. DFáte úroky na 20 procent, vyvoláte obrovskou recesi.
+
+Klíčové je mít aktiva. Mít nemovitost, mít akcie, mít nějaké zlato a finanční rezervu. Když to člověk má, inflace ho až tak nezajímá, protože na pandemii vydělal desítky procent. Člověk, který nemá plán a nemá aktiva, teď chodí po obchodech a diví se, kolik stojí mléko a kolik stojí rohlík.
+
+V naší společnosti je kupa lidí, kteří aktiva nemají, protože jsou chudí, nízkopříjmoví. A to je asi největší ironie zlých peněz. Peníze jsou popletený Jánošík, který bere chudým, kteří chodí do práce, nemají vlastní nemovitost, nemají zlato, nemají akcie a dává to nám bohatým – nejsem extrémně bohatým, ale mám nějaké úspory a aktiva – a podporují ceny našich aktiv. Já jsem na pandemii relativně dobře vydělal a člověk, který chodí do práce a nemá žádná aktiva se teď diví, kolik stojí rohlík a kolik stojí mléko. Jediná rada pro něj je: Už včera měl jít za šéfem a říct si o mnohem vyšší plat.
+
+Argument je, že platy inflaci doženou, ale nikdo už těm lidem neřekně, že ano, ale o rok později.
+
+Když přijdou problémy, musí to někdo zaplatit. Ztráty v systému už jsou: zombie firmy, které žijí z úvěrů, i když žádný dostat neměli, všechny domácnosti, které jsou za hranou, jsou nesolventní, ale likvidní. Když přijde liquidity event, čištění, někdo bude muset ztráty zaplatit. A kdo je zaplatí? Vždy střední třída. Tam jsou poníze. Nikdo jiný na to nemá. Ani když zdaníte nejbohatší, seberete jim všehcno, nemáte šanci zaplatit anid deficit srtátu, natož výdaje. Na konci dne to vždy musí zaplatit střední třída. A jak sebrtat peníze střední třídě? Jedna možnost je zdanění nemovitosrtí, druhé je zdanění bankovních vklůadů§,. Udělá se to rychle jako lusknutím prstů: prostě se dohodneme a z té bankyu to zmizí. Myslím, že (vládnoucí a finanční elityu) udělají všechno prto to, aby to nemuseli dělat takto. (jako na jaře 2013 na Kypru). Podle mě se bude hledat jiná cesta a už jsme toho svědky? nám všem sebrali z banky za poslední rok 4,9 procenta. Budou se to snařit tlačit přes inflaci. Když se jim to podaří držet v mírně vyšší inflaci, seberou si, co potřebují. Inflace je opravdu zázrak, stačí10 let pětiprocentní inflace a skoro padesát procent reálné hodnoty dluhu zmizí. Inflace opravdu řeší tento problém.
