@@ -37,6 +37,7 @@ const Kalkulacka = () => {
         flexWrap: "wrap",
         gap: "0.6rem",
         marginBottom: "1.2rem",
+        borderLeftColor: "#d52834",
       }}
     >
       <TextField
