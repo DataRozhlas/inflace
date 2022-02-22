@@ -56,7 +56,7 @@ Z [výpočtů ekonomů z CERGE](https://pep.vse.cz/pdfs/pep/2016/01/05.pdf) vypl
 
 Statistici při tom vycházejí z [národních](https://www.czso.cz/documents/10180/24433595/32019814c05.pdf/a7e7254f-6289-4ce5-bc36-08060537db92?version=1.0) a [rodinných účtů](https://www.czso.cz/csu/vykazy/statistika_rodinnych_uctu), tedy z účetní databáze, která se snaží co nejvěrněji zachytit hospodářské transakce celé země a z podrobného výzkumu, při kterém si tři tisíce domácností zastupujících všechny společenské vrstvy zapisuje veškeré příjmy a výdaje do deníčků, které pak odevzdávají statistikům. Váha, kterou jednotlivým cenovým reprezentantům ve spotřebním koši přisuzují, odpovídá podílu tohoto typu útraty na celkové spotřebě domácností.
 
-Tazatelky ([ČSÚ o nich referuje v ženském rodě](https://www.statistikaamy.cz/2015/02/22/inflace-jak-a-proc-se-v-cesku-pocita/)) potom zjišťují aktuální ceny. Buď zajdou a zavolají do reprezentativní sítě obchodů, nebo se čím dál častěji podívají na internet. Případně automaticky zpracují [data z pokladen maloobchodních řetězců](https://www.czso.cz/csu/czso/scanner-data).
+Tazatelky ([ČSÚ o nich referuje v ženském rodě](https://www.statistikaamy.cz/2015/02/22/inflace-jak-a-proc-se-v-cesku-pocita/)) potom zjišťují aktuální ceny. Buď zajdou a zavolají do některého z osmi a půl tisíce vytypovaných obchodů rozmístěných po celé republice, nebo se čím dál častěji podívají na internet. Případně automaticky zpracují [data z pokladen maloobchodních řetězců](https://www.statistikaamy.cz/2018/09/18/scanner-data-zvysuji-kvalitu-vypoctu-miry-inflace/).
 
 [Systém je tedy mnohem propracovanější](https://www.czso.cz/documents/10180/26822363/manual_isc_2021.pdf/06963cd6-53d0-4b9b-9f7e-b7465060ff71?version=1.5) než před sto lety, kdy s ním Čechoslováci začínali. Tehdy sledovali vývoj cen 41 položek rozdělených jen do dvou skupin: 1. potraviny, palivo, petrolej, mýdlo; 2. látky, obuv, klobouky.
 
@@ -134,6 +134,7 @@ I v době covidu se u nás díky [nízké nezaměstnanost](https://www.irozhlas.
 
 + je to jen průměr
 + a co důchody?
+- pan průměrný nakupuje?
 
 „Inflace je opravdu zázrak. Stačí deset let pětiprocentní inflace a skoro padesát procent reálné hodnoty dluhu zmizí,“ [říká slovenský ekonom a finanční poradce Juraj Karpiš](https://www.youtube.com/watch?v=KL4b6NACoLE). Jediný, kdo podle něj může nakonec zaplatit rekordní deficity, je střední třída. „Ve finanční krizi se politici naučili, že řešení problémů je tisknout peníze, teď k tomu opět sáhli. (...) Když se jim to podaří držet v mírně vyšší inflaci, seberou si, co potřebují.“
 
