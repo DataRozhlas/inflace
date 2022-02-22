@@ -12,7 +12,7 @@ Důchody, sociální dávky, regulované ceny, honoráře. Majetková vyrovnán�
 
 Zleva i zprava přibývá ekonomů, kteří upozorňují, že podobně [jako u mezd](https://www.statistikaamy.cz/o-slozitem-jednoduse/ostre-sledovana-mzda-prumer-a-median/) i v případě inflace může být průměr zavádějící a dovést nás ke špatným rozhodnutím.
 
->GRAF 1
+>GRAF 1 [data](https://data.irozhlas.cz/inflace/data/grafy/graf1.xlsx)
 
 >Jsou čtyři základní čísla, která se pravidelně objevují v souvislosti s inflací
 
@@ -62,9 +62,11 @@ Tazatelky ([ČSÚ o nich referuje v ženském rodě](https://www.statistikaamy.c
 
 Přesto se stále hledá rovnováha mezi přesností a proveditelností: výdaje jednotlivých domácností se od sebe liší nejen tím, co nakupují, ale i kde. Například lidé, kteří nemají auto, bývají častěji odkázání na večerky, které jsou sice po ruce, ale ceny v nich bývají vyšší než v supermarketech či hypermarketech. Ceny se mohou lišit i podle síly místní konkurence, vzdálenosti od dodavatele nebo počtu obyvatel v obci. Do zveřejňovaných statistických výkazů se nicméně dostane u každé ceny každé položky opět průměr za jeden druh zboží a celou republiku.
 
->Graf 3: Spotřební koš tehdy a teď
+>Graf 3: Spotřební koš tehdy a teď [data](https://data.irozhlas.cz/inflace/data/grafy/graf3.xlsx)
 
-Složení statistického spotřebního koše se v čase i prostoru mění: v italském jsou zastoupeny jiné potraviny než v polském, jinak vypadá současný český spotřební koš a ten z devadesátých let. V tom starém chybějí například přenosné počítače nebo účty za mobilní telefony.
+Složení statistického spotřebního koše se v čase i prostoru mění: v italském jsou zastoupeny jiné potraviny než v polském. Aby bylo možné inflaci srovnávat, zavedla Evropská unie [HICP, tedy Harmonizovaný index spotřebitelských cen](https://ec.europa.eu/eurostat/web/hicp), jehož výsledek se liší od národního výpočtu.
+
+Jinak také vypadá současný český spotřební koš a ten z devadesátých let. V tom starém chybějí například přenosné počítače nebo účty za mobilní telefony.
 
 Do spotřeby domácností se u nás nepočítá útrata v zahraničí, hypotéky, směnný obchod, hazardní hry, drogy – s výjimkou cigaret a alkoholu – ani prostituce. Průměrná útrata na osobu a rok pak [vychází zhruba na 150 tisíc korun](https://www.czso.cz/documents/10180/142681136/1600662112.pdf/09d4bc0d-e321-4b5a-b886-1105c9424ab6?version=1.3).
 
@@ -122,7 +124,7 @@ Jak upozornil v 90. letech ekonom [Jonathan Nitzan](https://bnarchives.yorku.ca/
 
 ## Nejen kolik to stojí, ale také kolik berete
 
-Inflace netrápí všechny stejně. Například [Japonsko se těší](https://www.ft.com/content/d7680c3c-0bea-4531-9154-ce291d5f9d77), že po třiceti letech nízké inflace konečně cenová hladina trochu poroste. Mírné znehodnocování peněz totiž v klasických představách promazává jako olej motor ekonomiky: dává lidem důvod volné peníze investovat, což vede k inovacím a ekonomickému růstu.
+Inflace netrápí všechny stejně. Zatímco většina Evropa či USA mají obavy [z největšího zdražování za nekolik dekád](https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2),Například [Japonsko se těší](https://www.ft.com/content/d7680c3c-0bea-4531-9154-ce291d5f9d77), že po třiceti letech nízké inflace konečně cenová hladina trochu poroste. Mírné znehodnocování peněz totiž v klasických představách promazává jako olej motor ekonomiky: dává lidem důvod volné peníze investovat, což vede k inovacím a ekonomickému růstu.
 
 Japonská inflace se sice od konce loňského roku mírně zvyšuje, stále se však počítá jen v desetinách procent. Stejně jako ceny ovšem v Japonsku stagnují i mzdy, od roku 2000 se reálně zvýšily o 0,39 procenta, průměr vyspělých zemí v OECD je kolem 35 procent, v Česku to je dokonce 75 procent.
 
