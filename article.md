@@ -80,7 +80,7 @@ Právě složení spotřebního koše totiž může výsledek výpočtu zásadn�
 
 V Česku například cena za tukový rohlík překonala už loni na podzim magickou hranici 2 Kč a v některých obchodech se prodává i za 2,30 Kč. Ceny se zvyšují prakticky u všech druhů zboží. Nejvíce je to znát u margarinů, které některé obchody zdražily i o 10 Kč.
 
->Graf 4: Co ve spotřebním koši nejvíc zdražuje, co naopak zlevňuje (box plot?)
+>Graf 4: Co ve spotřebním koši nejvíc zdražuje, co naopak zlevňuje ([box plot](https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2021/11/inflation_boxplot.png?w=723&ssl=1)?)
 
 <div id="root"></div>
 
@@ -130,7 +130,7 @@ Japonská inflace se sice od konce loňského roku mírně zvyšuje, stále se v
 
 I v době covidu se u nás díky [nízké nezaměstnanost](https://www.irozhlas.cz/ekonomika/analyza-nizka-nezamestnanost-cesko-ekonomika_1802150700_pek) mzdy zvyšovaly rychleji než ceny. [Výjimkou bylo zatím jen druhé čtvrtletí 2020](https://www.statistikaamy.cz/2021/12/06/prumerne-mzdy), kdy ekonomiku naplno zasáhl šok z nejtvrdších opatření v době první vlny covidu a reálné mzdy poprvé od krizových let 2012 a 2013 mírně klesly. Na výsledky za poslední kvartál ještě čekáme, varováním do těch dalších může být Británie, která navzdory rovněž vysoké poptávce po pracovní síle [vykázala pokles reálných mezd o 0,8 procenta](https://www.ft.com/content/ae3dbaba-11a4-41b5-a408-9fac0c0457dc).
 
->Graf 5 Srovnání reálných mezd a inflace 2000 - 2020
+>Graf 5 Srovnání reálných mezd, důchodů a inflace 2000 - 2020
 
 + je to jen průměr
 + a co důchody?
