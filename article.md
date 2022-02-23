@@ -15,7 +15,7 @@ Zleva i zprava přibývá ekonomů, kteří upozorňují, že podobně [jako u m
 <wide>
 <picture >
     <source srcset="https://data.irozhlas.cz/inflace/img/test-des.svg" media="(max-width: 600px)">
-    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/test-mob.svg" loading="lazy" alt="jak se měnila váha mužů v čase" />
+    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/test-mob.svg" loading="lazy" alt="graf1" />
 </picture>
 </wide>
 
