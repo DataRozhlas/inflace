@@ -12,6 +12,14 @@ Důchody, sociální dávky, regulované ceny, honoráře. Majetková vyrovnán�
 
 Zleva i zprava přibývá ekonomů, kteří upozorňují, že podobně [jako u mezd](https://www.statistikaamy.cz/o-slozitem-jednoduse/ostre-sledovana-mzda-prumer-a-median/) i v případě inflace může být průměr zavádějící a dovést nás ke špatným rozhodnutím.
 
+<wide>
+<picture >
+    <source srcset="https://data.irozhlas.cz/inflace/img/test-des.svg" media="(max-width: 600px)">
+    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/test-mob.svg" loading="lazy" alt="jak se měnila váha mužů v čase" />
+</picture>
+</wide>
+
+
 >GRAF 1 [data](https://data.irozhlas.cz/inflace/data/grafy/graf1.xlsx)
 
 >Jsou čtyři základní čísla, která se pravidelně objevují v souvislosti s inflací
