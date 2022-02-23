@@ -62,6 +62,14 @@ Z [výpočtů ekonomů z CERGE](https://pep.vse.cz/pdfs/pep/2016/01/05.pdf) vypl
 
 Číslo, které se pro vyjádření inflace nejčastěji používá, udává, o kolik se zvýšil vážený průměr cen zboží a služeb v typickém [spotřebním koši](https://www.czso.cz/csu/czso/spotrebni_kos_archiv). V tom českém nyní najdeme přes osm set položek („reprezentantů“) od kondomu, sušeného mléka a dětského míče až po poplatek za sepsání závěti a kremaci. Každá položka má přitom přesně stanovenou váhu: potraviny celkem 17,7 procenta, bydlení a energie 25 procent, vzdělávání půl procenta.
 
+<wide>
+<picture >
+    <source srcset="https://data.irozhlas.cz/inflace/img/spotrebni-kos-mob.svg" media="(max-width: 600px)">
+    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/spotrebni-kos-des.svg" loading="lazy" alt="graf1" />
+</picture>
+</wide>
+
+
 Statistici při tom vycházejí z [národních](https://www.czso.cz/documents/10180/24433595/32019814c05.pdf/a7e7254f-6289-4ce5-bc36-08060537db92?version=1.0) a [rodinných účtů](https://www.czso.cz/csu/vykazy/statistika_rodinnych_uctu), tedy z účetní databáze, která se snaží co nejvěrněji zachytit hospodářské transakce celé země a z podrobného výzkumu, při kterém si tři tisíce domácností zastupujících všechny společenské vrstvy zapisuje veškeré příjmy a výdaje do deníčků, které pak odevzdávají statistikům. Váha, kterou jednotlivým cenovým reprezentantům ve spotřebním koši přisuzují, odpovídá podílu tohoto typu útraty na celkové spotřebě domácností.
 
 Tazatelky ([ČSÚ o nich referuje v ženském rodě](https://www.statistikaamy.cz/2015/02/22/inflace-jak-a-proc-se-v-cesku-pocita/)) potom zjišťují aktuální ceny. Buď zajdou a zavolají do některého z osmi a půl tisíce vytypovaných obchodů rozmístěných po celé republice, nebo se čím dál častěji podívají na internet. Případně automaticky zpracují [data z pokladen maloobchodních řetězců](https://www.statistikaamy.cz/2018/09/18/scanner-data-zvysuji-kvalitu-vypoctu-miry-inflace/).
@@ -69,6 +77,14 @@ Tazatelky ([ČSÚ o nich referuje v ženském rodě](https://www.statistikaamy.c
 [Systém je tedy mnohem propracovanější](https://www.czso.cz/documents/10180/26822363/manual_isc_2021.pdf/06963cd6-53d0-4b9b-9f7e-b7465060ff71?version=1.5) než před sto lety, kdy s ním Čechoslováci začínali. Tehdy sledovali vývoj cen 41 položek rozdělených jen do dvou skupin: 1. potraviny, palivo, petrolej, mýdlo; 2. látky, obuv, klobouky.
 
 Přesto se stále hledá rovnováha mezi přesností a proveditelností: výdaje jednotlivých domácností se od sebe liší nejen tím, co nakupují, ale i kde. Například lidé, kteří nemají auto, bývají častěji odkázání na večerky, které jsou sice po ruce, ale ceny v nich bývají vyšší než v supermarketech či hypermarketech. Ceny se mohou lišit i podle síly místní konkurence, vzdálenosti od dodavatele nebo počtu obyvatel v obci. Do zveřejňovaných statistických výkazů se nicméně dostane u každé ceny každé položky opět průměr za jeden druh zboží a celou republiku.
+
+<wide>
+<picture >
+    <source srcset="https://data.irozhlas.cz/inflace/img/spotrebni-kos-porovnani-mob.svg" media="(max-width: 600px)">
+    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/spotrebni-kos-porovnani-des.svg" loading="lazy" alt="graf1" />
+</picture>
+</wide>
+
 
 >Graf 3: Spotřební koš tehdy a teď [data](https://data.irozhlas.cz/inflace/data/grafy/graf3.xlsx)
 
