@@ -1,5 +1,5 @@
 title: "Zdražování jako dodatečná daň: Jak se vaše osobní inflace liší od průměru?"
-perex: "Průměrná inflace, o níž se dozvídáme a přemýšlíme nejčastěji, vystihuje skutečně zažívanou inflaci jen asi 60 % domácností. Čím rychleji ceny stoupají, tím víc je těch, kdo zdražování pociťují jinak. Na rodiny, které za energie a potraviny utratí největší část příjmů, může reálná inflace dopadnout podstatně tvrději než by odpovídalo už tak alarmujícímu průměru, který se nejčastěji objevuje v médiích."
+perex: "Průměrná inflace, se kterou počítáme nejčastěji, vystihuje skutečně zažívané zdražování jen asi 60 % domácností. Čím rychleji ceny stoupají, tím víc je těch, kdo zvyšování cen pociťují jinak. Na rodiny, které za energie a potraviny utratí největší část příjmů, může reálná inflace dopadnout podstatně tvrději."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
 styles: ["https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"]
@@ -7,6 +7,27 @@ libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 
 ---
+
+Ruské rakety nerozbily jen ukrajinská města a infrastrukturu, ale také naději na rychlé zkrocení inflace. Ceny zboží a služeb budou zřejmě dál stoupat, hlavně u energií a potravin.
+
+Rusko před válkou dodávalo do Evropy téměř 40 procent spotřeby zemního plynu a čtvrtinu importované ropy. Ukrajina zase byla nejen klíčovým transportním uzlem pro tyto komodity, ale i světově významým exportérem obilovin, rostlinného oleje, oceli nebo například i neonu, který je potřeba při výrobě počítačových procesorů.
+
+Nejen tyto komodity po napadení Ukrajiny Ruskem začaly ještě víc zdražovat, ropa a zemní plyn se přiblížily historickým maximům.
+
+„Centrální banky se obávají, že dočasné, pandemií vyvolané poruchy v dodávkách zboží a surovin mohou (kvůli válce – pozn. red.) přerůst v samoudržující se cyklus trvale vyšší inflace,“ [napsaly](https://www.ft.com/content/615b5680-5206-48de-ab08-83ee62daf149) v redakčním komentáři Financial Times.
+
+Situace podle nich připomíná začátek 70. let, kdy [Jomkipurská válka](https://cs.wikipedia.org/wiki/Jomkipursk%C3%A1_v%C3%A1lka) rozdmýchala již dříve existující tendence ke znehodnocování peněz a způsobila v západních zemích stagflaci, tedy období úpadku, kdy bylo znehodnocování peněz rychlejší než hospodářský růst, a lidé tedy reálně zchudli.
+
+Že nejvážnější ozbrojený konflikt na starém kontinentu od druhé světové války přispěje k vyšší inflaci, připustila i Česká národní banka: „Krátkodobě lze předpokládat celkově proinflační dopady  zejména prostřednictvím vyšších cen ropy, zemního plynu a zprostředkovaně i dalších energií. Stejným směrem bude na cenovou hladinu krátkodobě působit kurz koruny, který je ve srovnání s předpoklady zimní prognózy aktuálně slabší,“ napsala mluvčí banky, jejímž cílem je udržovat stabilitu, tedy zmírňovat obavy lidí a firem z dalšího vývoje a tím i samotnou inflaci.
+
+Podle dosud platné [předpovědi národní banky](https://www.cnb.cz/cs/menova-politika/prognoza/) publikované ještě před tím, než se na Ukrajině začalo střílet, by měla zvýšená inflace ve druhé polovině letošního roku opadnout.
+
+Aktuální vývoj ale směřuje proti tomu, aby se tato prognóza naplnila. „Invaze snižuje schopnost centrálních bank připravit měkké přistání po pandemickém nárůstu inflace,“ řekl v FT americký [ekonom Krishna Guha](https://www.evercore.com/bios/krishna-guha/). [Neil Shearing](https://www.capitaleconomics.com/about-us/our-team/senior-team/neil-shearing/) v Londýně odhadl, že válka zvýši inflaci v Evropě o dva procentní body.
+
+Nový cenový šok totiž nepřišel v klidných dobách, ale v situaci, kdy už byly ceny mimořádně vysoké. V případě ropy se za uplynulých patnáct měsíců zdvojnásobily, zemní plyn se krátce poté, co Vladimir Putin spustil invazi, [prodával v Evropě desetkrát dráž než před rokem](https://tradingeconomics.com/commodity/eu-natural-gas).
+
+Drahý zemní plyn přitom neznamená jen vyšší faktury za topení pro domácnosti, ale také zdražení vstupů mnoha průmyslových odvětví: nepoužívá se jen k výrobě elektřiny, ale také například při výrobě hnojiv, jejichž zvýšené ceny se opět promítají do cen zemědělských výrobků.
+
 
 Důchody, sociální dávky, regulované ceny, honoráře. Majetková vyrovnání, nájemné i platy. Všechno bývá v zákonech a smlouvách navázáno na _průměrnou_ míru inflace, jak ji [počítá a zveřejňuje Český statistický úřad](https://www.czso.cz/csu/czso/inflace_spotrebitelske_ceny).
 
