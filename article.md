@@ -1,4 +1,4 @@
-title: "Zdražování jako dodatečná daň: Jak se vaše osobní inflace liší od průměru?"
+title: "Putinova drahota: Inflace bude zřejmě delší. Jak se vaše osobní zdražování liší od průměru?"
 perex: "Průměrná inflace, se kterou počítáme nejčastěji, vystihuje skutečně zažívané zdražování jen asi 60 % domácností. Čím rychleji ceny stoupají, tím víc je těch, kdo zvyšování cen pociťují jinak. Na rodiny, které za energie a potraviny utratí největší část příjmů, může reálná inflace dopadnout podstatně tvrději."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
@@ -13,6 +13,8 @@ Ruské rakety nerozbily jen ukrajinská města a infrastrukturu, ale také nadě
 Rusko před válkou dodávalo do Evropy téměř 40 procent spotřeby zemního plynu a čtvrtinu importované ropy. Ukrajina zase byla nejen klíčovým transportním uzlem pro tyto komodity, ale i světově významým exportérem obilovin, rostlinného oleje, oceli nebo například i neonu, který je potřeba při výrobě počítačových procesorů.
 
 Nejen tyto komodity po napadení Ukrajiny Ruskem začaly ještě víc zdražovat, ropa a zemní plyn se přiblížily historickým maximům.
+
+> Graf 0: Jak zdražily věci kvůli válce
 
 „Centrální banky se obávají, že dočasné, pandemií vyvolané poruchy v dodávkách zboží a surovin mohou (kvůli válce – pozn. red.) přerůst v samoudržující se cyklus trvale vyšší inflace,“ [napsaly](https://www.ft.com/content/615b5680-5206-48de-ab08-83ee62daf149) v redakčním komentáři Financial Times.
 
