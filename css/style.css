@@ -2,3 +2,15 @@
   max-width: 1040px;
   width: 100%;
 }
+#app {
+  width: 100%;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.components {
+  width: 100%;
+  background-color: bisque;
+  margin: 0.1rem auto;
+}

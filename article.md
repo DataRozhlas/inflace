@@ -8,6 +8,9 @@ options: [noheader, nopic] #wide, noheader (, nopic)
 
 ---
 
+<div id="root"></div>
+
+
 Rakety Grad nerozbíjejí jen ukrajinská města a infrastrukturu, ale také naději na rychlé hospodářské zmátoření po covidu. S vojáky a civilisty umírá i vidina, že se ještě letos Česku a Evropě podaří zkrotit inflaci.
 
 „Bohužel, bohužel, my z toho nemáme žádnou radost: ta dočasnost je dlouhodobější, než se původně zdálo,“ [řekl ve vysílání Českého rozhlasu](https://plus.rozhlas.cz/guverner-cnb-rusnok-v-pristim-roce-se-vratime-k-inflacnimu-cili-a-normalnim-8687433) guvernér České národní banky Jiří Rusnok.
@@ -20,7 +23,7 @@ Inflace tedy bude vyšší a delší než národní banka původně [odhadovala]
 
 Rusko před válkou dodávalo do Evropy téměř 40 procent spotřeby zemního plynu a čtvrtinu importované ropy. Zemní plyn se nepoužívá jen k topení a ohřevu vody, ale i k výrobě elektřiny nebo při výrobě hnojiv, jejichž zvýšené ceny se mohou projevit v cenách zemědělských výrobků.
 
-Ukrajina není jen transportní uzel pro zmíněné suroviny, ale i světově významý exportér obilovin, rostlinného oleje, oceli nebo například neonu, který je potřeba při výrobě počítačových procesorů.
+Ukrajina je transportní uzel pro zmíněné suroviny, ale také světově významý exportér obilovin, rostlinného oleje, oceli nebo například neonu, který je potřeba při výrobě počítačových procesorů.
 
 Není tedy divu, že mnohé komodity po napadení Ukrajiny Ruskem začaly ještě víc zdražovat. Ropa a zemní plyn se přiblížily historickým maximům.
 
