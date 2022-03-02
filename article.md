@@ -182,7 +182,7 @@ I v době covidu se u nás díky [nízké nezaměstnanost](https://www.irozhlas.
 <wide>
 <picture >
     <source srcset="https://data.irozhlas.cz/inflace/img/mzdy-duchody-inflace-mob.svg" media="(max-width: 600px)">
-    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/mzdy-duchody-inflace-des.svg" loading="lazy" alt="graf1" />
+    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/porovnani-cen-1-des.svg" loading="lazy" alt="graf1" />
 </picture>
 </wide>
 
