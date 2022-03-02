@@ -19,7 +19,7 @@ Válečnými operacemi a sankcemi zvýšené ceny plynu, elektřiny či pohonný
 
 Inflace tedy bude vyšší a delší než národní banka původně [odhadovala](https://www.cnb.cz/cs/menova-politika/prognoza/). Podle předpovědi publikované dva týdny před tím, než ruští vojáci vtrhli na Ukrajinu, měla inflace na jaře kulminovat a ve druhé polovině letošního roku opadnout.
 
-> Graf 0: Jak zdražily tři věci (zemní plyn, ropa, pšenice) kvůli válce. Line chart. Data dodám v pátek, aby byla fresh.
+> Graf 0: Jak zdražily tři věci ([zemní plyn](https://tradingeconomics.com/commodity/eu-natural-gas), [ropa](https://tradingeconomics.com/commodity/brent-crude-oil), [pšenice](https://tradingeconomics.com/commodity/wheat), [hliník](https://tradingeconomics.com/commodity/wheat)) kvůli válce. Line chart. Data dodám v pátek, aby byla fresh.
 
 Rusko před válkou dodávalo do Evropy téměř 40 procent spotřeby zemního plynu a čtvrtinu importované ropy. Zemní plyn se nepoužívá jen k topení a ohřevu vody, ale i k výrobě elektřiny nebo při výrobě hnojiv, jejichž zvýšené ceny se mohou projevit v cenách zemědělských výrobků.
 
@@ -62,6 +62,14 @@ Co dělá i zdánlivě mírná inflace v centrální bankou tolerovaném rozmez�
 
 >- Průměrná roční míra inflace. Číslo, které „vstupuje do historie“. Výsledek klouzavého průměru každý rok v prosinci. Slouží hlavně k porovnání dlouhých časových řad (1991 byla 56,6 %, 1993 20,8 %, 1998 10,7 %).
 
+<wide>
+<picture >
+    <source srcset="https://data.irozhlas.cz/inflace/img/typy-inflaci-mob.svg" media="(max-width: 600px)">
+    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/typy-inflaci-des.svg" loading="lazy" alt="graf1" />
+</picture>
+</wide>
+
+
 Zleva i zprava přibývá ekonomů, kteří upozorňují, že podobně [jako u mezd](https://www.statistikaamy.cz/o-slozitem-jednoduse/ostre-sledovana-mzda-prumer-a-median/) i v případě inflace může být průměr zavádějící a dovést nás ke špatným rozhodnutím.
 
 „Index spotřebních cen zachycuje pouze část poklesu kupní síly a není příliš vypovídající,“ [řekl například v časopisu Finmag](https://finmag.penize.cz/penize/428339-co-s-volnym-milionem-boj-s-inflaci-ocima-expertu) ekonom a propagátor kryptoměn Josef Tětek. Za lepší indikátor považuje růst [měnové zásoby M2](https://www.cnb.cz/cs/statistika/menova_bankovni_stat/narodni_stat_data/mp.htm), který napovídá, že centrální banka „tištěním“ peněz snížila hodnotu koruny za poslední rok o 7,3 procenta, tedy téměř dvojnásobně ve srovnání s oficiální mírou inflace.
@@ -86,8 +94,8 @@ Z [výpočtů ekonomů z CERGE](https://pep.vse.cz/pdfs/pep/2016/01/05.pdf) vypl
 
 <wide>
 <picture >
-    <source srcset="https://data.irozhlas.cz/inflace/img/spotrebni-kos-mob.svg" media="(max-width: 600px)">
-    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/spotrebni-kos-des.svg" loading="lazy" alt="graf1" />
+    <source srcset="https://data.irozhlas.cz/inflace/img/spotrebni-kos-porovnani-mob.svg" media="(max-width: 600px)">
+    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/spotrebni-kos-porovnani-des.svg" loading="lazy" alt="graf1" />
 </picture>
 </wide>
 
@@ -127,8 +135,8 @@ Vedle energií a potravin pohání českou inflaci tzv. imputované nájemné. D
 
 <wide>
 <picture >
-    <source srcset="https://data.irozhlas.cz/inflace/img/spotrebni-kos-porovnani-mob.svg" media="(max-width: 600px)">
-    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/spotrebni-kos-porovnani-des.svg" loading="lazy" alt="graf1" />
+    <source srcset="https://data.irozhlas.cz/inflace/img/porovnani-cen-1-mob.svg" media="(max-width: 600px)">
+    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/porovnani-cen-1-des.svg" loading="lazy" alt="graf1" />
 </picture>
 </wide>
 
@@ -171,7 +179,12 @@ Japonská inflace se sice od konce loňského roku mírně zvyšuje, stále se v
 
 I v době covidu se u nás díky [nízké nezaměstnanost](https://www.irozhlas.cz/ekonomika/analyza-nizka-nezamestnanost-cesko-ekonomika_1802150700_pek) mzdy zvyšovaly rychleji než ceny. [Výjimkou bylo zatím jen druhé čtvrtletí 2020](https://www.statistikaamy.cz/2021/12/06/prumerne-mzdy), kdy ekonomiku naplno zasáhl šok z nejtvrdších opatření v době první vlny covidu a reálné mzdy poprvé od krizových let 2012 a 2013 mírně klesly. Na výsledky za poslední kvartál ještě čekáme, varováním do těch dalších může být Británie, která navzdory rovněž vysoké poptávce po pracovní síle [vykázala pokles reálných mezd o 0,8 procenta](https://www.ft.com/content/ae3dbaba-11a4-41b5-a408-9fac0c0457dc).
 
->Graf 5 Srovnání reálných mezd, důchodů a inflace 2000 - 2020
+<wide>
+<picture >
+    <source srcset="https://data.irozhlas.cz/inflace/img/mzdy-duchody-inflace-mob.svg" media="(max-width: 600px)">
+    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/mzdy-duchody-inflace-des.svg" loading="lazy" alt="graf1" />
+</picture>
+</wide>
 
 „Inflace je opravdu zázrak. Stačí deset let pětiprocentní inflace a skoro padesát procent reálné hodnoty dluhu zmizí,“ [říká populární slovenský ekonom a finanční poradce Juraj Karpiš](https://www.youtube.com/watch?v=KL4b6NACoLE). Jediný, kdo podle něj může nakonec zaplatit rekordní deficity, je střední třída. „Ve finanční krizi se politici naučili, že řešení problémů je tisknout peníze, teď k tomu opět sáhli. (...) Když se jim to podaří držet v mírně vyšší inflaci, seberou si, co potřebují.“ Peníze jsou podle něj popletený Jánošík, který bere chudým a dává bohatým, kteří dokázali finanční rezervy správně investovat.
 
