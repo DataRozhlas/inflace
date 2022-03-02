@@ -155,7 +155,7 @@ Jedna cesta zpátky k rovnováze vede právě přes znehodnocení peněz. Dlužn
 
 Zatímco někteří ekonomové žijí ve Friedmanově světě dodnes, jiní jeho teorii podrobují kritice. Viz aforismus profesora ekonomie z MIT Roberta Solowa: „Friedman musí pořád myslet na peněžní zásobu,“ [napsal](https://www.harvardsquarelibrary.org/biographies/robert-merton-solow/). „Já zase musím pořád myslet na sex, ale do vědecké práce to netahám.“
 
-Ekonom [Narayan Kocherlakot](https://www.minneapolisfed.org/research/staff-reports/money-is-memory) zase říká, že „peníze jsou paměť". Pokud je to tak, inflace je obdobou zapomínání. Když se sníží hodnota měny, zmenší se význam každé transakce uskutečněné v minulosti, [všímá si blogger Noah Smith](https://substack.com/profile/8243895-noah-smith).
+Ekonom [Narayan Kocherlakot](https://www.minneapolisfed.org/research/staff-reports/money-is-memory) zase říká, že „peníze jsou paměť“. Pokud je to tak, inflace je obdobou zapomínání. Když se sníží hodnota měny, zmenší se význam každé transakce uskutečněné v minulosti, [všímá si blogger Noah Smith](https://substack.com/profile/8243895-noah-smith).
 
 ## Nespravedlivá inflace
 
