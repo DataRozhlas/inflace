@@ -1,7 +1,7 @@
 import React from "react";
 
 function Barchart() {
-  return <div class={"components"}>Barchart</div>;
+  return <div className={"components"}>Barchart</div>;
 }
 
 export default Barchart;

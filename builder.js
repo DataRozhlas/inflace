@@ -124,7 +124,7 @@ const build = async (mode) => {
   body = body.replace(new RegExp("</right>", "g"), "</div></div></div></div>");
 
   // applying markdown to the body
-  body = md(body);
+  body = md.parse(body);
   body = uvozovky(body);
 
   header.content = body;
