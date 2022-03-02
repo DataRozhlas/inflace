@@ -8,15 +8,17 @@ import Average from "./Average.jsx";
 import Slider from "./Slider.jsx";
 import Barchart from "./Barchart.jsx";
 
+const isMobile = window.innerWidth < 600;
+
 const App = () => {
   return (
     <div id={"app"}>
-      <Buttons />
+      <Buttons isMobile={isMobile} />
+      <Comment />
       <Result />
       <Average />
       <Slider />
       <Barchart />
-      <Comment />
     </div>
   );
 };
