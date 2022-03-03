@@ -19,7 +19,7 @@ Válečnými operacemi a sankcemi zvýšené ceny plynu, elektřiny či pohonný
 
 Inflace tedy bude vyšší a delší než národní banka původně [odhadovala](https://www.cnb.cz/cs/menova-politika/prognoza/). Podle předpovědi publikované dva týdny před vpádem ruské armády na Ukrajinu měla inflace na jaře kulminovat a ve druhé polovině letošního roku opadnout.
 
-> Graf 0: Jak zdražily tři věci ([zemní plyn](https://tradingeconomics.com/commodity/eu-natural-gas), [ropa](https://tradingeconomics.com/commodity/brent-crude-oil), [pšenice](https://tradingeconomics.com/commodity/wheat), [hliník](https://tradingeconomics.com/commodity/aluminum)) kvůli válce. Line chart. Data dodám v pátek, aby byla fresh.
+> Graf 0: Jak zdražily tři věci ([zemní plyn](https://data.irozhlas.cz/inflace/data/zemni-plyn.json), [ropa](https://data.irozhlas.cz/inflace/data/ropa.json), [pšenice](https://data.irozhlas.cz/inflace/data/psenice.json), [hliník](https://data.irozhlas.cz/inflace/data/hlinik.json)) kvůli válce. Line chart. Data dodám v pátek, aby byla fresh.
 
 Rusko před válkou dodávalo do Evropy téměř 40 procent spotřeby zemního plynu a čtvrtinu importované ropy. Zemní plyn se nepoužívá jen k produkci tepla a elektřiny, ale i při výrobě hnojiv, jejichž zvýšené ceny se mohou projevit v cenách zemědělských výrobků.
 
