@@ -19,7 +19,7 @@ Válečnými operacemi a sankcemi zvýšené ceny plynu, elektřiny či pohonný
 
 Inflace tedy bude vyšší a delší než národní banka původně [odhadovala](https://www.cnb.cz/cs/menova-politika/prognoza/). Podle předpovědi publikované dva týdny před vpádem ruské armády na Ukrajinu měla inflace na jaře kulminovat a ve druhé polovině letošního roku opadnout.
 
-> Graf 0: Jak zdražily tři věci ([zemní plyn](https://tradingeconomics.com/commodity/eu-natural-gas), [ropa](https://tradingeconomics.com/commodity/brent-crude-oil), [pšenice](https://tradingeconomics.com/commodity/wheat), [hliník](https://tradingeconomics.com/commodity/wheat)) kvůli válce. Line chart. Data dodám v pátek, aby byla fresh.
+> Graf 0: Jak zdražily tři věci ([zemní plyn](https://tradingeconomics.com/commodity/eu-natural-gas), [ropa](https://tradingeconomics.com/commodity/brent-crude-oil), [pšenice](https://tradingeconomics.com/commodity/wheat), [hliník](https://tradingeconomics.com/commodity/aluminum)) kvůli válce. Line chart. Data dodám v pátek, aby byla fresh.
 
 Rusko před válkou dodávalo do Evropy téměř 40 procent spotřeby zemního plynu a čtvrtinu importované ropy. Zemní plyn se nepoužívá jen k produkci tepla a elektřiny, ale i při výrobě hnojiv, jejichž zvýšené ceny se mohou projevit v cenách zemědělských výrobků.
 
@@ -93,8 +93,8 @@ Z [výpočtů ekonomů z CERGE](https://pep.vse.cz/pdfs/pep/2016/01/05.pdf) vypl
 
 <wide>
 <picture >
-    <source srcset="https://data.irozhlas.cz/inflace/img/spotrebni-kos-porovnani-mob.svg" media="(max-width: 600px)">
-    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/spotrebni-kos-porovnani-des.svg" loading="lazy" alt="graf1" />
+    <source srcset="https://data.irozhlas.cz/inflace/img/spotrebni-kos-mob.svg" media="(max-width: 600px)">
+    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/spotrebni-kos-des.svg" loading="lazy" alt="graf1" />
 </picture>
 </wide>
 
@@ -111,7 +111,12 @@ Přesto se stále hledá rovnováha mezi přesností a proveditelností. Napří
 
 Ceny se mohou lišit i podle síly místní konkurence, vzdálenosti od dodavatele nebo počtu obyvatel v obci. Do zveřejňovaných statistických výkazů se nicméně dostane opět průměr zjištěných cen za celou republiku.
 
->Graf 3: Spotřební koš tehdy a teď [data](https://data.irozhlas.cz/inflace/data/grafy/graf3.xlsx)
+<wide>
+<picture >
+    <source srcset="https://data.irozhlas.cz/inflace/img/spotrebni-kos-porovnani-mob.svg" media="(max-width: 600px)">
+    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/spotrebni-kos-porovnani-des.svg" loading="lazy" alt="graf1" />
+</picture>
+</wide>
 
 Složení statistického spotřebního koše se v čase i prostoru mění: v italském jsou zastoupeny jiné potraviny než v polském. Aby bylo možné inflaci srovnávat, zavedla Evropská unie [harmonizovaný index spotřebitelských cen](https://ec.europa.eu/eurostat/web/hicp) (HICP), jehož výsledek se liší od národního výpočtu.
 
@@ -180,7 +185,7 @@ I v době covidu se u nás díky [nízké nezaměstnanosti](https://www.irozhlas
 <wide>
 <picture >
     <source srcset="https://data.irozhlas.cz/inflace/img/mzdy-duchody-inflace-mob.svg" media="(max-width: 600px)">
-    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/porovnani-cen-1-des.svg" loading="lazy" alt="graf1" />
+    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/mzdy-duchody-inflace-des.svg" loading="lazy" alt="graf mzdy důchody inflace" />
 </picture>
 </wide>
 
