@@ -1,4 +1,4 @@
-title: "Putinova drahota: Jak se vaše osobní inflace liší od průměru?"
+title: "Po covidu přišla válka, inflace nebude krátká. Jak se vaše osobní zdražení liší od průměru?"
 perex: "Loni poskočila na 3,8 procenta, letos bude vyšší. Průměrná míra inflace ovšem vystihuje skutečně zažívané zdražování jen u šesti z deseti domácností. Čím rychleji ceny stoupají, tím víc je těch, kdo jejich zvyšování pociťují jinak než průměrně. Na chudší rodiny, které za jídlo, plyn a elektřinu utratí větší část rozpočtu, dopadá reálná inflace tvrději. A právě ceny energií a potravin žene ruská válka proti Ukrajině vzhůru nejrychleji."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
