@@ -2,6 +2,13 @@
   max-width: 1040px;
   width: 100%;
 }
+
+.ramecek {
+  border-width: 1px;
+  border-style: solid;
+  padding: 1rem;
+}
+
 #app {
   width: 100%;
   margin-bottom: 1rem;

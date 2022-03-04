@@ -30,50 +30,53 @@ const Kalkulacka = () => {
   const [rok, setRok] = React.useState(2012);
   const [castka, setCastka] = React.useState(1000);
   return (
-    <div
-      style={{
-        display: "flex",
-        alignItems: "baseline",
-        flexWrap: "wrap",
-        gap: "0.6rem",
-        marginBottom: "1.2rem",
-        borderLeftColor: "#d52834",
-      }}
-    >
-      <TextField
-        id="castka"
-        type="number"
-        sx={{ maxWidth: "120px" }}
-        InputLabelProps={{
-          shrink: true,
+    <fieldset className="ramecek">
+      <div
+        style={{
+          display: "flex",
+          alignItems: "baseline",
+          justifyContent: "center",
+          flexWrap: "wrap",
+          gap: "0.6rem",
+          marginBottom: "0.6rem",
+          borderLeftColor: "#d52834",
         }}
-        InputProps={{
-          endAdornment: <InputAdornment position="end">Kč</InputAdornment>,
-        }}
-        variant="standard"
-        value={castka}
-        onChange={(e) => setCastka(Number(e.target.value))}
-      />
-      <Typography variant="body">z roku</Typography>
-      <TextField
-        id="rok"
-        type="number"
-        sx={{ maxWidth: "60px" }}
-        InputLabelProps={{
-          shrink: true,
-        }}
-        variant="standard"
-        value={rok}
-        inputProps={{
-          max: maxRok,
-          min: minRok,
-        }}
-        onChange={(e) => setRok(Number(e.target.value))}
-      />
-      <Typography variant="body1">
-        má letos hodnotu {spocitejInflaci(castka, rok, rocniInflace)} Kč.
-      </Typography>
-    </div>
+      >
+        <TextField
+          id="castka"
+          type="number"
+          sx={{ maxWidth: "120px" }}
+          InputLabelProps={{
+            shrink: true,
+          }}
+          InputProps={{
+            endAdornment: <InputAdornment position="end">Kč</InputAdornment>,
+          }}
+          variant="standard"
+          value={castka}
+          onChange={(e) => setCastka(Number(e.target.value))}
+        />
+        <Typography variant="body">z roku</Typography>
+        <TextField
+          id="rok"
+          type="number"
+          sx={{ maxWidth: "60px" }}
+          InputLabelProps={{
+            shrink: true,
+          }}
+          variant="standard"
+          value={rok}
+          inputProps={{
+            max: maxRok,
+            min: minRok,
+          }}
+          onChange={(e) => setRok(Number(e.target.value))}
+        />
+        <Typography variant="body1">
+          má letos hodnotu {spocitejInflaci(castka, rok, rocniInflace)} Kč.
+        </Typography>
+      </div>
+    </fieldset>
   );
 };
 
