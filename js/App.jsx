@@ -1,6 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import d3 from "./d3Importer.js";
+import { createTheme, ThemeProvider } from "@mui/material/styles";
 //import kos from "../data/kos.json";
 //import Uhrn from "./Uhrn.jsx";
 import Buttons from "./Buttons.jsx";
@@ -12,6 +13,10 @@ import Barchart from "./Barchart.jsx";
 
 const isMobile = window.innerWidth < 600;
 
+const theme = createTheme({
+  typography: { fontFamily: '"Fira Sans", "Helvetica", "Arial", sans-serif' },
+});
+
 const App = () => {
   const [roky, setRoky] = useState([2021, 2022]);
   const [slozeniKose, setSlozeniKose] = useState([
@@ -20,14 +25,16 @@ const App = () => {
   ]);
 
   return (
-    <div id={"app"}>
-      <Buttons isMobile={isMobile} />
-      <Comment />
-      <Result />
-      <Average />
-      <SelectYear roky={roky} setRoky={setRoky} />
-      <Barchart slozeniKose={slozeniKose} />
-    </div>
+    <ThemeProvider theme={theme}>
+      <div id={"app"}>
+        <Buttons isMobile={isMobile} />
+        <Comment />
+        <Result />
+        <Average />
+        <SelectYear roky={roky} setRoky={setRoky} />
+        <Barchart slozeniKose={slozeniKose} />
+      </div>
+    </ThemeProvider>
   );
 };
 

@@ -2,7 +2,7 @@ title: "Popletený Jánošík, boj o moc i ztráta paměti. Inflace má spoustu 
 perex: "Meziroční inflace dosáhla v lednu 9,9 % a byla tak nejvyšší od léta 1998. Ačkoliv ji statistici počítají stále důkladněji, vnímat ji jako jediné číslo platné pro celou společnost je zavádějící. A to paradoxně tím víc, čím vyšší to číslo je. Prozkoumejte s námi, jak zdražují (ale i zlevňují) jednotlivé sledované položky, kdo růst cen pociťuje nejbolestivěji a jak se do něj dále promítne válka."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
-styles: ["https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"]
+styles: ["https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;700&display=swap"]
 libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 
