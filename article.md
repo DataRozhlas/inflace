@@ -1,5 +1,5 @@
-title: "Po covidu přišla válka, inflace nebude krátká. Jak se vaše osobní zdražení liší od průměru?"
-perex: "Loni poskočila na 3,8 procenta, letos bude vyšší. Průměrná míra inflace ovšem vystihuje skutečně zažívané zdražování jen u šesti z deseti domácností. Čím rychleji ceny stoupají, tím víc je těch, kdo jejich zvyšování pociťují jinak než průměrně. Na chudší rodiny, které za jídlo, plyn a elektřinu utratí větší část rozpočtu, dopadá reálná inflace tvrději. A právě ceny energií a potravin žene ruská válka proti Ukrajině vzhůru nejrychleji."
+title: "Popletený Jánošík, boj o moc i ztráta paměti. Inflace má spoustu jmen a nepřátele na pravici i na levici. Spočítejte si, o kolik zdražil život právě vám"
+perex: "Meziroční inflace dosáhla v lednu 9,9 % a byla tak nejvyšší od léta 1998. Ačkoliv ji statistici počítají stále důkladněji, vnímat ji jako jediné číslo platné pro celou společnost je zavádějící. A to paradoxně tím víc, čím vyšší to číslo je. Prozkoumejte s námi, jak zdražují (ale i zlevňují) jednotlivé sledované položky, kdo růst cen pociťuje nejbolestivěji a jak se do něj dále promítne válka."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
 styles: ["https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"]
@@ -10,14 +10,11 @@ options: [noheader, nopic] #wide, noheader (, nopic)
 
 <div id="root"></div>
 
+Ještě před měsícem analytici České národní banky předpovídali, že bude inflace [kulminovat na jaře](https://www.cnb.cz/cs/menova-politika/prognoza/) a v druhé polovině roku 2022 začne klesat k hodnotám, na které jsme byli posledních třináct let zvyklí. Ruská invaze na Ukrajinu podobný optimismus vyloučila.
 
-Rakety Grad nerozbíjejí jen ukrajinská města a infrastrukturu, ale také naději na rychlé hospodářské zmátoření po covidu. S vojáky a civilisty umírá i vidina, že se ještě letos Česku a Evropě podaří zkrotit inflaci.
-
-„Bohužel, bohužel, my z toho nemáme žádnou radost: ta dočasnost je dlouhodobější, než se původně zdálo,“ [řekl ve vysílání Českého rozhlasu](https://plus.rozhlas.cz/guverner-cnb-rusnok-v-pristim-roce-se-vratime-k-inflacnimu-cili-a-normalnim-8687433) guvernér České národní banky Jiří Rusnok.
+„Dočasnost je dlouhodobější, než se původně zdálo,“ [řekl ve vysílání Českého rozhlasu](https://plus.rozhlas.cz/guverner-cnb-rusnok-v-pristim-roce-se-vratime-k-inflacnimu-cili-a-normalnim-8687433) guvernér České národní banky Jiří Rusnok.
 
 Válečnými operacemi a sankcemi zvýšené ceny plynu, elektřiny či pohonných hmot se podle Rusnoka postupně promítnou do zdražování dalších výrobků a služeb a ceny už mnohdy zůstanou vysoké.
-
-Inflace tedy bude vyšší a delší než národní banka původně [odhadovala](https://www.cnb.cz/cs/menova-politika/prognoza/). Podle předpovědi publikované dva týdny před vpádem ruské armády na Ukrajinu měla inflace na jaře kulminovat a ve druhé polovině letošního roku opadnout.
 
 > Graf 0: Jak zdražily tři věci ([zemní plyn](https://data.irozhlas.cz/inflace/data/zemni-plyn.json), [ropa](https://data.irozhlas.cz/inflace/data/ropa.json), [pšenice](https://data.irozhlas.cz/inflace/data/psenice.json), [hliník](https://data.irozhlas.cz/inflace/data/hlinik.json)) kvůli válce. Line chart. Data dodám v pátek, aby byla fresh.
 
