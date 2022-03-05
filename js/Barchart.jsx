@@ -7,6 +7,7 @@ const slozeniKoseVsechny = [
 
 function Barchart() {
   return <div className={"components"}></div>;
+  // TODO aby se kreslil SVG barchart
 }
 
 export default Barchart;

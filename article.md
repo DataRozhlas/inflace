@@ -34,6 +34,9 @@ Pokud se vaše osobní spotřeba kryje s [průměrným spotřebním košem](http
 
 Bylo už i hůř. V transformačním roce 1991, poté co stát přestal většinu cen diktovat a nechal je psát rukou trhu, stoupla cenová hladina za rok víc než o polovinu.
 
+<!--
+TODO aby se mohl široký obrázek na mobilu scrollovat-->
+
 <wide>
 <picture >
     <source srcset="https://data.irozhlas.cz/inflace/img/test-mob.svg" media="(max-width: 600px)">
@@ -179,6 +182,7 @@ Japonská inflace se sice od konce loňského roku mírně zvyšuje, stále se v
 
 I v době covidu se u nás díky [nízké nezaměstnanosti](https://www.irozhlas.cz/ekonomika/analyza-nizka-nezamestnanost-cesko-ekonomika_1802150700_pek) mzdy zvyšovaly rychleji než ceny. [Výjimkou bylo zatím jen druhé čtvrtletí roku 2020](https://www.statistikaamy.cz/2021/12/06/prumerne-mzdy), kdy ekonomiku naplno zasáhl šok z nejtvrdších opatření v době první vlny covidu a reálné mzdy poprvé od krizových let 2012 a 2013 mírně klesly. Na výsledky za poslední kvartál ještě čekáme. Varováním do těch dalších může být Británie, která navzdory vysoké poptávce po pracovní síle [vykázala pokles reálných mezd o 0,8 procenta](https://www.ft.com/content/ae3dbaba-11a4-41b5-a408-9fac0c0457dc).
 
+<!-- TODO data pro reálné mzdy-->
 <wide>
 <picture >
     <source srcset="https://data.irozhlas.cz/inflace/img/mzdy-duchody-inflace-mob.svg" media="(max-width: 600px)">
