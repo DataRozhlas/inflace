@@ -10,7 +10,6 @@ function SelectYear({ roky, setRoky }) {
   const handleChange = (event, newValue) => {
     setRoky(newValue);
   };
-  console.log(roky);
   return (
     <div className={"components"}>
       <Slider

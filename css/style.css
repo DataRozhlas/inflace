@@ -40,6 +40,16 @@
   background-color: rgba(175, 175, 175, 0.726);
 }
 
+.barchart {
+  flex-direction: column;
+}
+
+.bar {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5rem;
+}
+
 @media screen and (max-width: 600px) {
   .buttons {
     flex-wrap: wrap;
