@@ -3,10 +3,13 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App.jsx";
 import Kalkulacka from "./Kalkulacka.jsx";
+import Switcher from "./Switcher.jsx";
 
 ReactDOM.render(<Kalkulacka />, document.getElementById("kalkulacka"));
 
 ReactDOM.render(<App />, document.getElementById("root"));
+
+ReactDOM.render(<Switcher />, document.getElementById("switcher"));
 
 /*
 // snadné načtení souboru pro každého!

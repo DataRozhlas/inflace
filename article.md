@@ -143,13 +143,8 @@ V Česku například cena za tukový rohlík překonala už loni na podzim magic
 Vedle energií a potravin pohání českou inflaci tzv. imputované nájemné. Do něj se počítají ceny nových bytů a domů, náklady na jejich renovaci a údržbu nebo poplatky realitním kancelářím. Vzhledem k rekordním cenám nemovitostí to má na výslednou inflaci značný vliv. Mezi experty se dlouhodobě [vede spor, zda by se měly tyto položky počítat do spotřeby, nebo jestli nejde spíš o investice](https://www.hypoindex.cz/clanky/chceme-nizsi-inflaci-imputujme-imputovane-najemne/).
 
 <wide>
-<picture >
-    <source srcset="https://data.irozhlas.cz/inflace/img/porovnani-cen-1-mob.svg" media="(max-width: 600px)">
-    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/porovnani-cen-1-des.svg" loading="lazy" alt="graf1" />
-</picture>
+<div id="switcher"></div>
 </wide>
-
->INTERAKTIVNO: Úplná inflační kalkulačka
 
 
 ## Ztráta paměti i přeformátování společnosti
