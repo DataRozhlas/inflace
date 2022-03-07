@@ -12,7 +12,9 @@ function Switcher() {
   const [selected, setSelected] = useState("1");
 
   const handleSwitch = (event, newSelected) => {
-    setSelected(newSelected);
+    if (newSelected) {
+      setSelected(newSelected);
+    }
   };
 
   return (
@@ -29,11 +31,11 @@ function Switcher() {
       </ToggleButtonGroup>
       <picture>
         <source
-          srcset={`https://data.irozhlas.cz/inflace/img/porovnani-cen-${selected}-mob.svg`}
+          srcSet={`https://data.irozhlas.cz/inflace/img/porovnani-cen-${selected}-mob.svg`}
           media="(max-width: 600px)"
         />
         <img
-          class="uzsi"
+          className="uzsi"
           src={`https://data.irozhlas.cz/inflace/img/porovnani-cen-${selected}-des.svg`}
           loading="lazy"
           alt="graf1"
