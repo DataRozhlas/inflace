@@ -16,7 +16,13 @@ Ještě před měsícem analytici České národní banky předpovídali, že bu
 
 Válečnými operacemi a sankcemi zvýšené ceny plynu, elektřiny či pohonných hmot se podle Rusnoka postupně promítnou do zdražování dalších výrobků a služeb a ceny už mnohdy zůstanou vysoké.
 
-> Graf 0: Jak zdražily tři věci ([zemní plyn](https://data.irozhlas.cz/inflace/data/zemni-plyn.json), [ropa](https://data.irozhlas.cz/inflace/data/ropa.json), [pšenice](https://data.irozhlas.cz/inflace/data/psenice.json), [hliník](https://data.irozhlas.cz/inflace/data/hlinik.json)) kvůli válce. Line chart. Data dodám v pátek, aby byla fresh.
+<wide>
+<picture >
+    <source srcset="https://data.irozhlas.cz/inflace/img/komodity-mob.svg" media="(max-width: 600px)">
+    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/komodity-des.svg" loading="lazy" alt="graf1" />
+</picture>
+</wide>
+
 
 Rusko před válkou dodávalo do Evropy téměř 40 procent spotřeby zemního plynu a čtvrtinu importované ropy. Zemní plyn se nepoužívá jen k produkci tepla a elektřiny, ale i při výrobě hnojiv, jejichž zvýšené ceny se mohou projevit v cenách zemědělských výrobků.
 
