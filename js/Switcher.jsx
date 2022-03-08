@@ -1,8 +1,6 @@
-import React from "react";
-import { useState } from "react";
-import d3 from "./d3Importer.js";
+import React, { useState } from "react";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
-import { ToggleButton, ToggleButtonGroup } from "@mui/material";
+import { ToggleButton, ToggleButtonGroup, Typography } from "@mui/material";
 
 const theme = createTheme({
   typography: { fontFamily: '"Fira Sans", "Helvetica", "Arial", sans-serif' },
@@ -19,6 +17,9 @@ function Switcher() {
 
   return (
     <ThemeProvider theme={theme}>
+      <Typography variant="h4" align="center">
+        Co zdražilo, co zlevnilo?
+      </Typography>
       <ToggleButtonGroup
         exclusive
         color="primary"
