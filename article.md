@@ -42,13 +42,10 @@ Pokud se vaše osobní spotřeba kryje s [průměrným spotřebním košem](http
 
 Bylo už i hůř. V transformačním roce 1991, poté co stát přestal většinu cen diktovat a nechal je psát rukou trhu, stoupla cenová hladina za rok víc než o polovinu.
 
-<!--
-TODO aby se mohl široký obrázek na mobilu scrollovat-->
 
 <wide>
 <picture >
-    <source srcset="https://data.irozhlas.cz/inflace/img/test-mob.svg" media="(max-width: 600px)">
-    <img class="uzsi" src="https://data.irozhlas.cz/inflace/img/test-des.svg" loading="lazy" alt="graf1" />
+    <img class="uzsi scrollx" src="https://data.irozhlas.cz/inflace/img/test-des.svg" loading="lazy" alt="graf1" />
 </picture>
 </wide>
 

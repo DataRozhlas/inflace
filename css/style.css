@@ -3,6 +3,11 @@
   width: 100%;
 }
 
+.scrollx {
+  overflow-x: scroll;
+  min-width: 700px;
+}
+
 .ramecek {
   border-width: 1px;
   border-style: solid;

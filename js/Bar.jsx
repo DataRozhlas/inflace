@@ -1,10 +1,10 @@
 import React, { useRef, useLayoutEffect } from "react";
-import { Typography } from "@mui/material";
+import { Typography, Box } from "@mui/material";
 
-const vyskaGrafu = 150;
-const sirkaSloupce = 24;
+function Bar({ n, v, v2, isMobile }) {
+  const vyskaGrafu = 150;
+  const sirkaSloupce = isMobile ? 18 : 24;
 
-function Bar({ n, v, v2 }) {
   const barContainer = useRef();
   const blueBar = useRef();
   const outlineBar = useRef();
@@ -13,10 +13,10 @@ function Bar({ n, v, v2 }) {
     //console.log("barContainer", barContainer.current);
     //console.log("blueBar", blueBar.current.getAttribute("height"));
     //console.log("outlineBar", outlineBar.current);
-    const Xoffset = barContainer.current.clientWidth / 2 - 16 / 2;
-    const YoffsetBlue = vyskaGrafu - blueBar.current.getAttribute("height");
+    const Xoffset = barContainer.current.clientWidth / 2 - sirkaSloupce / 2;
+    const YoffsetBlue = vyskaGrafu - blueBar.current.getAttribute("height") - 1;
     const YoffsetOutline =
-      vyskaGrafu - outlineBar.current.getAttribute("height");
+      vyskaGrafu - outlineBar.current.getAttribute("height") - 1;
 
     blueBar.current.setAttribute(
       "transform",
@@ -46,9 +46,22 @@ function Bar({ n, v, v2 }) {
           strokeWidth="1px"
         ></rect>
       </svg>
-      <Typography variant={"caption"} align={"center"}>
-        {n}
-      </Typography>
+      {!isMobile && (
+        <Typography
+          variant={"caption"}
+          align={"center"}
+          sx={{ marginTop: "0.5rem" }}
+        >
+          {n}
+        </Typography>
+      )}
+      {isMobile && (
+        <Box sx={{ transform: "rotate(90deg)" }}>
+          <Typography noWrap={true} variant={"caption"}>
+            {n}
+          </Typography>
+        </Box>
+      )}
     </div>
   );
 }

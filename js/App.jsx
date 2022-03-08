@@ -45,7 +45,7 @@ const App = () => {
         <Result />
         <Average />
         <SelectYear roky={roky} setRoky={setRoky} />
-        <Barchart slozeniKose={slozeniKose} />
+        <Barchart slozeniKose={slozeniKose} isMobile={isMobile} />
       </div>
     </ThemeProvider>
   );

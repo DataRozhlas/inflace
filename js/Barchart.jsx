@@ -20,13 +20,21 @@ const slozeniKoseVsechny = [
   { id: "E12", n: "Ostatní zboží a služby", v: 62.521156 },
 ];
 
-function Barchart({ slozeniKose }) {
+function Barchart({ slozeniKose, isMobile }) {
   return (
     <div className={"components barchart"}>
       {slozeniKoseVsechny.map((item) => {
         const v2 = slozeniKose.filter((i2) => i2.id === item.id)[0].v;
 
-        return <Bar key={item.id} n={item.n} v={item.v} v2={v2}></Bar>;
+        return (
+          <Bar
+            key={item.id}
+            n={item.n}
+            v={item.v}
+            v2={v2}
+            isMobile={isMobile}
+          ></Bar>
+        );
       })}
     </div>
   );
