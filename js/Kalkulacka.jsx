@@ -38,7 +38,6 @@ const Kalkulacka = () => {
           justifyContent: "center",
           flexWrap: "wrap",
           gap: "0.6rem",
-          marginBottom: "0.6rem",
           borderLeftColor: "#d52834",
         }}
       >
