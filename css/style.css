@@ -3,16 +3,6 @@
   width: 100%;
 }
 
-.scrollx {
-  overflow-x: scroll;
-  overflow-y: hidden;
-  white-space: nowrap;
-}
-
-.scroll {
-  min-width: 800px;
-}
-
 .ramecek {
   border-width: 1px;
   border-style: solid;
@@ -66,8 +56,16 @@
   width: 100%;
 }
 
-@media screen and (max-width: 600px) {
-  .buttons {
-    flex-wrap: wrap;
+@media screen and (max-width: 768px) {
+  .mobilonly {
+    display: none;
+  }
+  .scrollx {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+  }
+  .scroll {
+    min-width: 768px;
   }
 }

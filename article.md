@@ -44,8 +44,9 @@ Bylo už i hůř. V transformačním roce 1991, poté co stát přestal většin
 
 
 <wide>
+    <img class="uzsi mobilonly" src="https://data.irozhlas.cz/inflace/img/interakce.svg" loading="lazy" alt="interakce" />
 <div class="scrollx">
-    <img class="uzsi scroll" src="https://data.irozhlas.cz/inflace/img/test-des.svg" loading="lazy" alt="graf1" />
+    <img class="uzsi scroll" src="https://data.irozhlas.cz/inflace/img/test-des.svg" loading="lazy" alt="graf inflace 1989 až 2021" />
 </div>
 </wide>
 
