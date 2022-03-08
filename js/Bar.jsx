@@ -1,7 +1,7 @@
 import React, { useRef, useLayoutEffect } from "react";
 import { Typography, Box } from "@mui/material";
 
-function Bar({ n, v, v2, isMobile }) {
+function Bar({ n, v, v2, k, isMobile }) {
   const vyskaGrafu = 150;
   const sirkaSloupce = isMobile ? 18 : 24;
 
@@ -29,8 +29,11 @@ function Bar({ n, v, v2, isMobile }) {
   }, []);
 
   return (
-    <div className="bar">
-      <svg ref={barContainer} height={`${vyskaGrafu}px`} width={"100%"}>
+    <div
+      className="bar"
+      style={isMobile ? { width: "18px", height: `${vyskaGrafu * 2}px` } : null}
+    >
+      <svg ref={barContainer} height={`${vyskaGrafu}px`}>
         <rect
           ref={blueBar}
           width={`${sirkaSloupce}`}
@@ -55,10 +58,15 @@ function Bar({ n, v, v2, isMobile }) {
           {n}
         </Typography>
       )}
+
       {isMobile && (
-        <Box sx={{ transform: "rotate(90deg)" }}>
-          <Typography noWrap={true} variant={"caption"}>
-            {n}
+        <Box sx={{ transform: "rotate(90deg) translate(2px, -2px)" }}>
+          <Typography
+            variant={"caption"}
+            noWrap={true}
+            sx={{ overflow: "hidden" }}
+          >
+            {k}
           </Typography>
         </Box>
       )}
