@@ -4,6 +4,8 @@ import InputAdornment from "@mui/material/InputAdornment";
 import Stack from "@mui/material/Stack";
 import Typography from "@mui/material/Typography";
 
+const isMobile = window.innerWidth < 769;
+
 const rocniInflace = [
   1.4, 9.7, 56.6, 11.1, 20.8, 10, 9.1, 8.8, 8.5, 10.7, 2.1, 3.9, 4.7, 1.8, 0.1,
   2.8, 1.9, 2.5, 2.8, 6.3, 1, 1.5, 1.9, 3.3, 1.4, 0.4, 0.3, 0.7, 2.5, 2.1, 2.8,
@@ -44,7 +46,7 @@ const Kalkulacka = () => {
         <TextField
           id="castka"
           type="number"
-          sx={{ maxWidth: "120px" }}
+          sx={{ maxWidth: isMobile ? "80px" : "120px" }}
           InputLabelProps={{
             shrink: true,
           }}
