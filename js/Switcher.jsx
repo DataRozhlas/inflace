@@ -31,9 +31,15 @@ function Switcher() {
         onChange={handleSwitch}
         sx={{ margin: "1rem auto", display: "flex", justifyContent: "center" }}
       >
-        <ToggleButton value="1">Za poslední rok</ToggleButton>
-        <ToggleButton value="2">Od začátku pandemie</ToggleButton>
-        <ToggleButton value="3">Od roku 2015</ToggleButton>
+        <ToggleButton value="1" sx={{ lineHeight: "1rem" }}>
+          Za poslední rok
+        </ToggleButton>
+        <ToggleButton value="2" sx={{ lineHeight: "1rem" }}>
+          Od začátku pandemie
+        </ToggleButton>
+        <ToggleButton value="3" sx={{ lineHeight: "1rem" }}>
+          Od roku 2015
+        </ToggleButton>
       </ToggleButtonGroup>
       <picture>
         <source
