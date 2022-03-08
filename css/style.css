@@ -5,7 +5,9 @@
 
 .scrollx {
   overflow-x: scroll;
-  min-width: 700px;
+  overflow-y: hidden;
+  white-space: nowrap;
+  min-width: 800px;
 }
 
 .ramecek {

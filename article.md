@@ -44,9 +44,7 @@ Bylo už i hůř. V transformačním roce 1991, poté co stát přestal většin
 
 
 <wide>
-<picture >
     <img class="uzsi scrollx" src="https://data.irozhlas.cz/inflace/img/test-des.svg" loading="lazy" alt="graf1" />
-</picture>
 </wide>
 
 Co s vašimi penězi po několika letech udělá i zdánlivě mírná inflace v centrální bankou tolerovaném rozmezí 1 až 3 procenta ročně, si můžete ověřit v jednoduché kalkulačce (zadané údaje se nikam neukládají):
