@@ -23,10 +23,9 @@ function Bar({ n, v, v2 }) {
           strokeWidth="1px"
         ></rect>
       </svg>
-      <Typography variant={"caption"} align={"center"}>
+      {/* <Typography variant={"caption"} align={"center"}>
         {n}
-      </Typography>
-      <p>{console.log(barRef.current)}</p>
+      </Typography> */}
     </div>
   );
 }
