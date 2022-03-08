@@ -1,22 +1,32 @@
 import React from "react";
+import { useRef } from "react";
 import { Typography } from "@mui/material";
 
 function Bar({ n, v, v2 }) {
+  const barRef = useRef();
   return (
-    <div className="bar">
-      <Typography variant={"caption"}>{n}</Typography>
-      <svg height={"1.1em"} width={"100%"}>
-        <rect height={"1em"} width={`${v2 / 10}%`} fill="#7aaacc"></rect>
+    <div ref={barRef} className="bar">
+      <svg height={"150px"} width={"100%"}>
         <rect
-          width={`${v / 10}%`}
+          width={"1em"}
+          height={`${(v2 / 10) * 2}%`}
+          fill="#7aaacc"
+          transform="translate(0,25)"
+        ></rect>
+        <rect
+          height={`${(v / 10) * 2}%`}
           x={0.5}
           y={0.5}
-          height={"1em"}
+          width={"1em"}
           fill="none"
           stroke="black"
           strokeWidth="1px"
         ></rect>
       </svg>
+      <Typography variant={"caption"} align={"center"}>
+        {n}
+      </Typography>
+      <p>{console.log(barRef.current)}</p>
     </div>
   );
 }

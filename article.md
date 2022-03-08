@@ -8,7 +8,9 @@ options: [noheader, nopic] #wide, noheader (, nopic)
 
 ---
 
+<wide>
 <div id="root"></div>
+</wide>
 
 Ještě před měsícem analytici České národní banky předpovídali, že bude inflace [kulminovat na jaře](https://www.cnb.cz/cs/menova-politika/prognoza/) a v druhé polovině roku 2022 začne klesat k hodnotám, na které jsme byli posledních třináct let zvyklí. Ruská invaze na Ukrajinu podobný optimismus vyloučila.
 

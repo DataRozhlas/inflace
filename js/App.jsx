@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import d3 from "./d3Importer.js";
+//import d3 from "./d3Importer.js";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 //import kos from "../data/kos.json";
 //import Uhrn from "./Uhrn.jsx";

@@ -73,7 +73,7 @@ const Kalkulacka = () => {
           onChange={(e) => setRok(Number(e.target.value))}
         />
         <Typography variant="body1">
-          je jako leošních {spocitejInflaci(castka, rok, rocniInflace)} Kč
+          odpovídalo letošním {spocitejInflaci(castka, rok, rocniInflace)} Kč
         </Typography>
       </div>
     </fieldset>

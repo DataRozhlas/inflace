@@ -21,6 +21,7 @@ function Switcher() {
     <ThemeProvider theme={theme}>
       <ToggleButtonGroup
         exclusive
+        color="primary"
         value={selected}
         onChange={handleSwitch}
         sx={{ margin: "1rem auto", display: "flex", justifyContent: "center" }}
