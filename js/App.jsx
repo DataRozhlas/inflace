@@ -1,5 +1,4 @@
-import React from "react";
-import { useState } from "react";
+import React, { useState } from "react";
 //import d3 from "./d3Importer.js";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 //import kos from "../data/kos.json";
@@ -11,7 +10,7 @@ import Average from "./Average.jsx";
 import SelectYear from "./SelectYear.jsx";
 import Barchart from "./Barchart.jsx";
 
-const isMobile = window.innerWidth < 600;
+const isMobile = window.innerWidth < 769;
 
 const theme = createTheme({
   typography: { fontFamily: '"Fira Sans", "Helvetica", "Arial", sans-serif' },

@@ -2,13 +2,13 @@ import React from "react";
 import Bar from "./Bar.jsx";
 
 const slozeniKoseVsechny = [
-  { id: "E01", n: "Potraviny a nealkoholické nápoje", v: 178.075443 },
-  { id: "E02", n: "Alkoholické nápoje, tabák", v: 86.948337 },
+  { id: "E01", n: "Potraviny a nealko", v: 178.075443 },
+  { id: "E02", n: "Alkohol, tabák", v: 86.948337 },
   { id: "E03", n: "Odívání a obuv", v: 38.945347 },
   { id: "E04", n: "Bydlení, voda, energie, paliva", v: 267.373622 },
   {
     id: "E05",
-    n: "Bytové vybavení, zařízení domácnosti, opravy",
+    n: "Vybavení bytu, opravy",
     v: 58.333435,
   },
   { id: "E06", n: "Zdraví", v: 26.544646 },
