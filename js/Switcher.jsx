@@ -17,7 +17,11 @@ function Switcher() {
 
   return (
     <ThemeProvider theme={theme}>
-      <Typography variant="h4" align="center">
+      <Typography
+        variant="h4"
+        align="center"
+        sx={{ fontWeight: 500, fontSize: "1.5rem", marginTop: "1rem" }}
+      >
         Co zdražilo, co zlevnilo?
       </Typography>
       <ToggleButtonGroup
