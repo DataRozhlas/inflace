@@ -46,7 +46,7 @@ const Kalkulacka = () => {
         <TextField
           id="castka"
           type="number"
-          sx={{ maxWidth: isMobile ? "60px" : "120px" }}
+          //    sx={{ maxWidth: isMobile ? "60px" : "120px" }}
           InputLabelProps={{
             shrink: true,
           }}
@@ -61,7 +61,7 @@ const Kalkulacka = () => {
         <TextField
           id="rok"
           type="number"
-          sx={{ maxWidth: "60px" }}
+          //    sx={{ maxWidth: "60px" }}
           InputLabelProps={{
             shrink: true,
           }}
