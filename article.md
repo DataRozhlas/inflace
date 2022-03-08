@@ -42,13 +42,12 @@ Pokud se vaše osobní spotřeba kryje s [průměrným spotřebním košem](http
 
 Bylo už i hůř. V transformačním roce 1991, poté co stát přestal většinu cen diktovat a nechal je psát rukou trhu, stoupla cenová hladina za rok víc než o polovinu.
 
-
 <wide>
-    <img class="uzsi mobilonly" src="https://data.irozhlas.cz/inflace/img/interakce.svg" loading="lazy" alt="interakce" />
 <div class="scrollx">
     <img class="uzsi scroll" src="https://data.irozhlas.cz/inflace/img/test-des.svg" loading="lazy" alt="graf inflace 1989 až 2021" />
 </div>
 </wide>
+    <img class="uzsi mobilonly" src="https://data.irozhlas.cz/inflace/img/interakce.svg" loading="lazy" alt="interakce" />
 
 Co s vašimi penězi po několika letech udělá i zdánlivě mírná inflace v centrální bankou tolerovaném rozmezí 1 až 3 procenta ročně, si můžete ověřit v jednoduché kalkulačce (zadané údaje se nikam neukládají):
 
