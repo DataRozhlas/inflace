@@ -1,7 +1,5 @@
 import React from "react";
 import TextField from "@mui/material/TextField";
-import InputAdornment from "@mui/material/InputAdornment";
-import Stack from "@mui/material/Stack";
 import Typography from "@mui/material/Typography";
 
 const isMobile = window.innerWidth < 769;
@@ -46,10 +44,10 @@ const Kalkulacka = () => {
         <TextField
           id="castka"
           type="number"
-          //sx={{ maxWidth: isMobile ? "60px" : "120px" }}
-          // InputLabelProps={{
-          //   shrink: true,
-          // }}
+          sx={{ maxWidth: "50px" }}
+          InputLabelProps={{
+            shrink: true,
+          }}
           variant="standard"
           value={castka}
           onChange={(e) => setCastka(Number(e.target.value))}
@@ -58,10 +56,10 @@ const Kalkulacka = () => {
         <TextField
           id="rok"
           type="number"
-          //    sx={{ maxWidth: "60px" }}
-          // InputLabelProps={{
-          //   shrink: true,
-          // }}
+          sx={{ maxWidth: "50px" }}
+          InputLabelProps={{
+            shrink: true,
+          }}
           variant="standard"
           value={rok}
           inputProps={{
