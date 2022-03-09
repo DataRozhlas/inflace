@@ -26,7 +26,7 @@ function Bar({ n, v, v2, k, isMobile }) {
       "transform",
       `translate(${Xoffset}, ${YoffsetOutline})`
     );
-  }, []);
+  }, [v2]);
 
   return (
     <div

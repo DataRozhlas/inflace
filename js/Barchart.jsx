@@ -36,12 +36,11 @@ const slozeniKoseVsechny = [
   { id: "E12", n: "Ostatní zboží a služby", k: "Ostatní", v: 62.521156 },
 ];
 
-function Barchart({ slozeniKose, isMobile }) {
+function Barchart({ vybranyKos, isMobile }) {
   return (
     <div className={"components barchart"}>
-      {slozeniKoseVsechny.map((item) => {
-        const v2 = slozeniKose.filter((i2) => i2.id === item.id)[0].v;
-
+      {slozeniKoseVsechny.map((item, index) => {
+        const v2 = vybranyKos.kos[index];
         return (
           <Bar
             key={item.id}

@@ -1,12 +1,10 @@
 import React from "react";
 import { Typography } from "@mui/material";
 
-function Comment() {
+function Comment({ vybranyKos }) {
   return (
     <div className={"components"}>
-      <Typography>
-        Tady může, ale nemusí být krátký komentář k aktuálně vybrané kategorii.
-      </Typography>
+      <Typography variant={"caption"}>{vybranyKos.pozn}</Typography>
     </div>
   );
 }
