@@ -47,9 +47,9 @@ const Kalkulacka = () => {
           id="castka"
           type="number"
           //    sx={{ maxWidth: isMobile ? "60px" : "120px" }}
-          InputLabelProps={{
-            shrink: true,
-          }}
+          // InputLabelProps={{
+          //   shrink: true,
+          // }}
           InputProps={{
             endAdornment: <InputAdornment position="end">Kč</InputAdornment>,
           }}
@@ -57,14 +57,14 @@ const Kalkulacka = () => {
           value={castka}
           onChange={(e) => setCastka(Number(e.target.value))}
         />
-        <Typography variant="body">v roce</Typography>
+        <Typography variant="body1">v roce</Typography>
         <TextField
           id="rok"
           type="number"
           //    sx={{ maxWidth: "60px" }}
-          InputLabelProps={{
-            shrink: true,
-          }}
+          // InputLabelProps={{
+          //   shrink: true,
+          // }}
           variant="standard"
           value={rok}
           inputProps={{

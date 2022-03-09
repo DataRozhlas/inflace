@@ -3,6 +3,13 @@ import { createTheme, ThemeProvider } from "@mui/material/styles";
 import { ToggleButton, ToggleButtonGroup, Typography } from "@mui/material";
 
 const theme = createTheme({
+  palette: {
+    primary: {
+      main: "#267080",
+      dark: "#B1CBD1",
+      light: "#D8E5E8",
+    },
+  },
   typography: { fontFamily: '"Fira Sans", "Helvetica", "Arial", sans-serif' },
 });
 
