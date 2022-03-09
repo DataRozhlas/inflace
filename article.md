@@ -10,7 +10,7 @@ options: [noheader, nopic] #wide, noheader (, nopic)
 
 Ještě před měsícem analytici České národní banky předpovídali, že bude inflace [kulminovat na jaře](https://www.cnb.cz/cs/menova-politika/prognoza/) a v druhé polovině roku 2022 začne klesat k hodnotám, na které jsme byli posledních třináct let zvyklí. Ruská invaze na Ukrajinu podobný optimismus vyloučila.
 
-„Dočasnost je dlouhodobější, než se původně zdálo,“ [řekl ve vysílání Českého rozhlasu](https://plus.rozhlas.cz/guverner-cnb-rusnok-v-pristim-roce-se-vratime-k-inflacnimu-cili-a-normalnim-8687433) guvernér České národní banky Jiří Rusnok.
+„Dočasnost je dlouhodobější, než se původně zdálo,“ [řekl ve vysílání Českého rozhlasu Plus](https://plus.rozhlas.cz/guverner-cnb-rusnok-v-pristim-roce-se-vratime-k-inflacnimu-cili-a-normalnim-8687433) guvernér České národní banky Jiří Rusnok.
 
 Válečnými operacemi a sankcemi zvýšené ceny plynu, elektřiny či pohonných hmot se podle Rusnoka postupně promítnou do zdražování dalších výrobků a služeb a ceny už mnohdy zůstanou vysoké.
 
@@ -27,13 +27,13 @@ Ukrajina je transportní uzel pro zmíněné suroviny, ale také světově význ
 
 Není tedy divu, že mnohé komodity po napadení Ukrajiny Ruskem začaly ještě víc zdražovat. Cena ropy je nejvyšší od roku 2008, zemní plyn v Evropě dosáhl historického maxima.
 
-„Centrální banky se obávají, že dočasné, pandemií vyvolané poruchy v dodávkách zboží a surovin mohou (kvůli válce – pozn. red.) přerůst v samoudržující se cyklus trvale vyšší inflace,“ [napsaly](https://www.ft.com/content/615b5680-5206-48de-ab08-83ee62daf149) v redakčním komentáři britské Financial Times. Situace podle nich připomíná začátek 70. let, kdy [Jomkipurská válka](https://cs.wikipedia.org/wiki/Jomkipursk%C3%A1_v%C3%A1lka) rozdmýchala již existující tendence ke znehodnocování peněz a způsobila v západních zemích stagflaci. Období úpadku, kdy byla inflace rychlejší než hospodářský růst, a lidé proto zchudli.
+„Centrální banky se obávají, že dočasné, pandemií vyvolané poruchy v dodávkách zboží a surovin mohou (*kvůli válce – pozn. red.*) přerůst v samoudržující se cyklus trvale vyšší inflace,“ [napsaly](https://www.ft.com/content/615b5680-5206-48de-ab08-83ee62daf149) v redakčním komentáři britské Financial Times. Situace podle nich připomíná začátek 70. let, kdy [Jomkipurská válka](https://cs.wikipedia.org/wiki/Jomkipursk%C3%A1_v%C3%A1lka) rozdmýchala již existující tendence ke znehodnocování peněz a způsobila v západních zemích stagflaci. Období úpadku, kdy byla inflace rychlejší než hospodářský růst, a lidé proto zchudli.
 
 ## Jedno číslo nestačí
 
 Stát nesleduje ceny v obchodech jen tak pro zajímavost. Na _průměrnou_ míru inflace, jak ji z indexů spotřebitelských cen [počítá a zveřejňuje Český statistický úřad](https://www.czso.cz/csu/czso/inflace_spotrebitelske_ceny), bývají v zákonech a smlouvách navázané důchody, sociální dávky, regulované ceny, honoráře, majetková vyrovnání, nájemné i platy.
 
-Pokud se vaše osobní spotřeba kryje s [průměrným spotřebním košem](https://www.czso.cz/csu/czso/spotrebni_kos_archiv), mohli jste si v roce 2021 za stejné peníze koupit o 3,8 procenta míň věcí a služeb než v prvním roce pandemie – [pokud měli v obchodech otevřeno](https://www.czso.cz/csu/czso/metodicke-poznamky-k-indexu-spotrebitelskych-cen-covid-19).
+Pokud se vaše osobní spotřeba kryje s [průměrným spotřebním košem](https://www.czso.cz/csu/czso/spotrebni_kos_archiv), mohli jste si v roce 2021 za stejné peníze koupit o necelá čtyři procenta míň věcí a služeb než v prvním roce pandemie – [pokud měli v obchodech otevřeno](https://www.czso.cz/csu/czso/metodicke-poznamky-k-indexu-spotrebitelskych-cen-covid-19).
 
 Bylo už i hůř. V transformačním roce 1991, poté co stát přestal většinu cen diktovat a nechal je psát rukou trhu, stoupla cenová hladina za rok víc než o polovinu.
 
@@ -67,9 +67,9 @@ Opačným příkladem může být člověk, který má fotovoltaickou elektrárn
 
 Z [výpočtů ekonomů z CERGE](https://pep.vse.cz/pdfs/pep/2016/01/05.pdf) vyplývá, že jen kolem 60 procent domácností bývá vystaveno cenovým nárůstům v podobné výši jako průměrná míra inflace. Navíc čím vyšší byla průměrná inflace, tím menší procento domácností bylo vystaveno nárůstu cen blízko tomuto průměru.
 
-„Po většinu sledovaného období (1995-2010 – pozn. red.) byly nízkopříjmové domácnosti a domácnosti důchodců vystaveny signifikantně vyšším nárůstům cen, než byla míra inflace,“ píší Pavel Hait a Petr Janský.
+„Po většinu sledovaného období (*1995-2010 – pozn. red.*) byly nízkopříjmové domácnosti a domácnosti důchodců vystaveny signifikantně vyšším nárůstům cen, než byla míra inflace,“ píší Pavel Hait a Petr Janský.
 
-„Toto bych nepovažoval za univerzálně aplikovatelný zákon,“ varuje před unáhleným závěrem ekonom Marek Šedivý z Fakulty sociálních věd Univerzity Karlovy. „Bude to vždy záviset na struktuře inflace. Ceny energií, které tvoří větší část spotřebního koše nízkopříjmových domácností, nyní rostou více než CPI (celková inflace - pozn. red.). Nicméně například ceny potravin a nealko nápojů, které budou pro nízkopříjmové také významější, rostly méně než CPI. Tudíž se nedá jednoduše dojít k závěru, že by nízkopříjmové domácnosti musely být inflací více zasaženy.“
+„Toto bych nepovažoval za univerzálně aplikovatelný zákon,“ varuje před unáhleným závěrem ekonom Marek Šedivý z Fakulty sociálních věd Univerzity Karlovy. „Bude to vždy záviset na struktuře inflace. Ceny energií, které tvoří větší část spotřebního koše nízkopříjmových domácností, nyní rostou více než CPI (*celková inflace - pozn. red.*). Nicméně například ceny potravin a nealko nápojů, které budou pro nízkopříjmové také významější, rostly méně než CPI. Tudíž se nedá jednoduše dojít k závěru, že by nízkopříjmové domácnosti musely být inflací více zasaženy.“
 
 <wide>
 <div id="switcher"></div>
@@ -142,7 +142,7 @@ Covidová inflace jeho teorii ilustuje názorně: opatření od nákupu vakcín 
 
 Proti enormním výdajům stojí přiškrcené příjmy: celé segmenty hospodářství kvůli pandemii prudce snížily výkon, případně se na čas úplně zastavily a přestaly tedy „vytvářet hodnoty“.
 
-Lépe situované domácnosti chtěly utráce úspory z doby předcovidové prosperity, ale neměly za co. Vznikly tak a těžko předvídatelné turbulence mezi nabídkou a poptávkou.
+Lépe situované domácnosti chtěly utrácet úspory z doby předcovidové prosperity, ale neměly za co. Vznikly tak těžko předvídatelné turbulence mezi nabídkou a poptávkou.
 
 Jedna cesta zpátky k rovnováze vede právě přes znehodnocení peněz. Dlužníkům v čele s vládami se tím uleví, věřitelům a těm, kdo si místo dluhu vytvořili peněžní rezervy, naopak přitíží.
 
@@ -152,7 +152,7 @@ Ekonom [Narayan Kocherlakot](https://www.minneapolisfed.org/research/staff-repor
 
 ## Nespravedlivá inflace
 
-„Kéž by inflace byla tak jednoduchá, [jak si to představoval Friedman],“ [píše](https://economicsfromthetopdown.com/2021/11/24/the-truth-about-inflation/) výše citovaný politický ekonom Blair Fix. „Může to být tak, že tištění peněz způsobuje vzestup cen. A nebo to může být tak, že stoupající ceny nutí lidi víc si půjčovat – a tím ,vytvářet' víc peněz.“
+„Kéž by inflace byla tak jednoduchá, [jak si to představoval Friedman],“ [píše](https://economicsfromthetopdown.com/2021/11/24/the-truth-about-inflation/) výše citovaný politický ekonom Blair Fix. „Může to být tak, že tištění peněz způsobuje vzestup cen. A nebo to může být tak, že stoupající ceny nutí lidi víc si půjčovat – a tím ,vytvářet‘  víc peněz.“
 
 „Pokud se průměrná cena nemění, neznamená to, že se nemění ani jednotlivé ceny. Pokud se cenová hladina rozhoupe zároveň nahoru i dolů, průměrná cenová úroveň není příliš informativní, ba může být až zavádějící.“
 
@@ -160,11 +160,11 @@ Klíčové je podle něj uvědomit si, že inflace není jednolitý jev, ačkoli
 
 Při obrovském rozptylu hodnot cenových indexů by pomohlo, kdyby statistický úřad a média zároveň s mírou inflace zveřejňovala [směrodatnou odchylku](https://cs.wikipedia.org/wiki/Sm%C4%9Brodatn%C3%A1_odchylka), tedy jak moc se liší inflace různých položek ve spotřebním koši.
 
-Jak v 90. letech upozornil ekonom [Jonathan Nitzan](https://bnarchives.yorku.ca/207/) při přemýšlení o inflaci je klíčové si všímat právě takových rozdílů: „Změna cen je vždy diferencovaná, to znamená, že má vítěze a poražené. Důsledkem toho je, že inflace není jen peněžním jevem. Inflace mění strukturu společnosti.“ Podle Nitzana jde o nejdůležitější vlastnost inflace, a zároveň o nejvíc opomíjenou.
+Jak v 90. letech upozornil ekonom [Jonathan Nitzan](https://bnarchives.yorku.ca/207/), při přemýšlení o inflaci je klíčové si všímat právě takových rozdílů: „Změna cen je vždy diferencovaná, to znamená, že má vítěze a poražené. Důsledkem toho je, že inflace není jen peněžním jevem. Inflace mění strukturu společnosti.“ Podle Nitzana jde o nejdůležitější vlastnost inflace, a zároveň o nejvíc opomíjenou.
 
 ## Nejen kolik to stojí, ale také kolik berete
 
-Inflace netrápí všechny stejně. Zatímco Evropa či USA mají obavy [z největšího zdražování za nekolik dekád](https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2), [Japonsko se těší](https://www.ft.com/content/d7680c3c-0bea-4531-9154-ce291d5f9d77), že po třiceti letech nízké inflace konečně cenová hladina trochu roste. Mírné znehodnocování peněz totiž v klasických představách promazává soukolí ekonomiky: dává lidem důvod volné peníze investovat, což vede k inovacím a ekonomickému růstu.
+Inflace netrápí všechny stejně. Zatímco Evropa či USA mají obavy [z největšího zdražování za několik dekád](https://www.ft.com/content/088d3368-bb8b-4ff3-9df7-a7680d4d81b2), [Japonsko se těší](https://www.ft.com/content/d7680c3c-0bea-4531-9154-ce291d5f9d77), že po třiceti letech nízké inflace konečně cenová hladina trochu roste. Mírné znehodnocování peněz totiž v klasických představách promazává soukolí ekonomiky: dává lidem důvod volné peníze investovat, což vede k inovacím a ekonomickému růstu.
 
 Japonská inflace se sice od konce loňského roku mírně zvyšuje, stále se však počítá jen v desetinách procent. Stejně jako ceny ovšem v Japonsku stagnují i mzdy. Od roku 2000 se reálně zvýšily o 0,39 procenta, průměr vyspělých zemí v OECD je kolem 35 procent. V Česku to je dokonce 75 procent.
 
@@ -179,7 +179,7 @@ I v době covidu se u nás díky [nízké nezaměstnanosti](https://www.irozhlas
 
 „Inflace je opravdu zázrak. Stačí deset let pětiprocentní inflace a skoro padesát procent reálné hodnoty dluhu zmizí,“ [říká slovenský ekonom a finanční poradce Juraj Karpiš](https://www.youtube.com/watch?v=KL4b6NACoLE). „Ve finanční krizi se politici naučili, že řešení problémů je tisknout peníze, teď k tomu opět sáhli. (…) Když se jim to podaří držet v mírně vyšší inflaci, seberou si, co potřebují.“ Peníze jsou podle něj popletený Jánošík, který bere chudým a dává bohatým, kteří dokázali finanční rezervy investovat.
 
-Podobně to vidí guvernér ČNB Rusnok: „Inflace nás všechny vlastně zdaňuje. A zdaňuje nás tak, že o tom nehlasoval žádný parlament, nebyla o tom volební kampaň. Jednak nám bere úspory, jednak ,zdaňuje' reálnou kupní silou obyvatelstva. Čili i ti, kteří žádné úspory nemají a jakoby nemají co ztratit, takto ztrácejí kupní sílu. A to je velmi závažný společenský a sociální fenomén,“ řekl v rozhovoru pro Český rozhlas.
+Podobně to vidí guvernér ČNB Rusnok: „Inflace nás všechny vlastně zdaňuje. A zdaňuje nás tak, že o tom nehlasoval žádný parlament, nebyla o tom volební kampaň. Jednak nám bere úspory, jednak ,zdaňuje' reálnou kupní silou obyvatelstva. Čili i ti, kteří žádné úspory nemají a jakoby nemají co ztratit, takto ztrácejí kupní sílu. A to je velmi závažný společenský a sociální fenomén,“ řekl v rozhovoru pro Český rozhlas Plus.
 
 Podle [studie PAQ Research](https://idea.cerge-ei.cz/images/COVID/PAQ_Research/2135_Energie_v27.pdf) z konce loňského roku, kdy ještě nebylo možné do zdražení energií započíst válku na Ukrajině, bude letos nejchudší pětina domácností dávat za bydlení víc než dvě třetiny rozpočtu. U pětiny nejbohatších domácností to mělo být v průmětu 18 procent. Vyrovnat tento nepoměr by podle autorů studie měl nový způsob výpočtu příspěvku na bydlení.
 

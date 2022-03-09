@@ -46,18 +46,15 @@ const Kalkulacka = () => {
         <TextField
           id="castka"
           type="number"
-          sx={{ maxWidth: isMobile ? "60px" : "120px" }}
+          //sx={{ maxWidth: isMobile ? "60px" : "120px" }}
           // InputLabelProps={{
           //   shrink: true,
           // }}
-          InputProps={{
-            endAdornment: <InputAdornment position="end">Kč</InputAdornment>,
-          }}
           variant="standard"
           value={castka}
           onChange={(e) => setCastka(Number(e.target.value))}
         />
-        <Typography variant="body1">v roce</Typography>
+        <Typography variant="body1">Kč v roce</Typography>
         <TextField
           id="rok"
           type="number"
