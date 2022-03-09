@@ -34,7 +34,7 @@ Není tedy divu, že mnohé komodity po napadení Ukrajiny Ruskem začaly ješt�
 
 „Centrální banky se obávají, že dočasné, pandemií vyvolané poruchy v dodávkách zboží a surovin mohou (kvůli válce – pozn. red.) přerůst v samoudržující se cyklus trvale vyšší inflace,“ [napsaly](https://www.ft.com/content/615b5680-5206-48de-ab08-83ee62daf149) v redakčním komentáři britské Financial Times. Situace podle nich připomíná začátek 70. let, kdy [Jomkipurská válka](https://cs.wikipedia.org/wiki/Jomkipursk%C3%A1_v%C3%A1lka) rozdmýchala již existující tendence ke znehodnocování peněz a způsobila v západních zemích stagflaci, tedy období úpadku, kdy byla inflace rychlejší než hospodářský růst, a lidé proto zchudli.
 
-## Zavádějící průměr
+## Jedno číslo nestačí
 
 Stát nesleduje ceny v obchodech jen tak pro zajímavost. Na _průměrnou_ míru inflace, jak ji z indexů spotřebitelských cen [počítá a zveřejňuje Český statistický úřad](https://www.czso.cz/csu/czso/inflace_spotrebitelske_ceny), bývají v zákonech a smlouvách navázané důchody, sociální dávky, regulované ceny, honoráře, majetková vyrovnání, nájemné i platy.
 

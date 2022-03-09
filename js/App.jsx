@@ -4,6 +4,7 @@ import { createTheme, ThemeProvider } from "@mui/material/styles";
 //import kos from "../data/kos.json";
 //import Uhrn from "./Uhrn.jsx";
 import kose from "../data/kose.json";
+import cpi from "../data/cpi.json";
 import Buttons from "./Buttons.jsx";
 import Comment from "./Comment.jsx";
 import Result from "./Result.jsx";
