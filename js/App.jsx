@@ -18,6 +18,7 @@ const theme = createTheme({
 
 const App = () => {
   const [roky, setRoky] = useState([2021, 2022]);
+  const [skupina, setSkupina] = useState(0);
   const [slozeniKose, setSlozeniKose] = useState([
     { id: "E01", n: "Potraviny a nealkoholické nápoje", v: 178.075443 },
     { id: "E02", n: "Alkoholické nápoje, tabák", v: 86.948337 },
@@ -40,7 +41,11 @@ const App = () => {
   return (
     <ThemeProvider theme={theme}>
       <div id={"app"}>
-        <Buttons isMobile={isMobile} />
+        <Buttons
+          skupina={skupina}
+          setSkupina={setSkupina}
+          isMobile={isMobile}
+        />
         <Comment />
         <Result />
         <Average />

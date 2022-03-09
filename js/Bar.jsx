@@ -31,7 +31,11 @@ function Bar({ n, v, v2, k, isMobile }) {
   return (
     <div
       className="bar"
-      style={isMobile ? { width: "18px", height: `${vyskaGrafu * 2}px` } : null}
+      style={
+        isMobile
+          ? { width: `${sirkaSloupce + 1}px`, height: `${vyskaGrafu * 2}px` }
+          : null
+      }
     >
       <svg ref={barContainer} height={`${vyskaGrafu}px`}>
         <rect
