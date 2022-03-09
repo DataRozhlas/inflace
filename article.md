@@ -1,4 +1,4 @@
-title: "Popletený Jánošík, boj o moc i ztráta paměti. Inflace má spoustu jmen a ještě víc nepřátel. Spočítejte si, o kolik zdražil život právě vám"
+title: "Inflace jako popletený Jánošík, boj o moc i ztráta paměti. Jak si spočítat, o kolik zdražil život právě vám?"
 perex: "Meziroční inflace dosáhla v lednu 9,9 % a byla tak nejvyšší od léta 1998. Ačkoliv ji statistici počítají stále důkladněji, vnímat ji jako jediné číslo platné pro celou společnost je zavádějící. A to paradoxně tím víc, čím vyšší to číslo je. Prozkoumejte s námi, jak zdražují (ale i zlevňují) jednotlivé sledované položky, kdo růst cen pociťuje nejbolestivěji a jak se do něj promítne válka."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
