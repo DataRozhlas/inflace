@@ -19,7 +19,7 @@ const theme = createTheme({
 });
 
 const App = () => {
-  const [roky, setRoky] = useState([2020, 2021]);
+  const [roky, setRoky] = useState([2021, 2021]);
   const [skupina, setSkupina] = useState(0);
   const [vybranyKos, setVybranyKos] = useState(kose[0]);
 
@@ -38,7 +38,7 @@ const App = () => {
         />
         <Comment vybranyKos={vybranyKos} />
         <Result cpi={cpi} vybranyKos={vybranyKos} roky={roky} />
-        <Average />
+        <Average roky={roky} />
         <SelectYear roky={roky} setRoky={setRoky} />
         <Barchart vybranyKos={vybranyKos} isMobile={isMobile} />
       </div>

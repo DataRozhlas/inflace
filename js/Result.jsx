@@ -7,17 +7,28 @@ const spoctiRocni = (rok, cpi, vybranyKos) => {
     (acc, curr) => acc + (curr.h / 100) * vybranyKos[curr.u - 1],
     0
   );
-  const result = cpiSum / 10 - 100;
-  console.log(result);
+  const result = cpiSum / 10;
+  return result.toFixed(3);
+};
+
+const spoctiKumulovanou = (roky, cpi, vybranyKos) => {
+  const rokyRada = [];
+  for (let i = roky[0]; i < roky[1] + 1; i++) {
+    rokyRada.push(spoctiRocni(i, cpi, vybranyKos));
+  }
+  const result = rokyRada.reduce((acc, curr) => (acc * curr) / 100, 100);
+  return result.toFixed(1) - 100;
 };
 
 function Result({ cpi, vybranyKos, roky }) {
   return (
     <div className={"components numbers circle"}>
       <Typography variant={"h2"}>
-        {spoctiRocni(2020, cpi, vybranyKos.kos)}
+        {`${spoctiKumulovanou(roky, cpi, vybranyKos.kos).toLocaleString(
+          "cs-CZ"
+        )} %`}
       </Typography>
-      <Typography variant={"caption"}>vybraná skupina</Typography>
+      <Typography variant={"caption"}>{vybranyKos.nazev}</Typography>
     </div>
   );
 }
