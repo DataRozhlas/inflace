@@ -3,7 +3,7 @@ import { Slider } from "@mui/material";
 
 const marks = [
   { value: 2000, label: "2000" },
-  { value: 2022, label: "2022" },
+  { value: 2021, label: "2021" },
 ];
 
 function SelectYear({ roky, setRoky }) {
@@ -14,7 +14,7 @@ function SelectYear({ roky, setRoky }) {
     <div className={"components"}>
       <Slider
         value={roky}
-        max={2022}
+        max={2021}
         min={2000}
         onChange={handleChange}
         valueLabelDisplay="auto"
