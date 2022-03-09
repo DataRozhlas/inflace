@@ -59,7 +59,7 @@ Zleva i zprava přibývá ekonomů upozorňujících, že podobně [jako u mezd]
 
 „Index spotřebních cen zachycuje pouze část poklesu kupní síly a není příliš vypovídající,“ [řekl například na webu Finmag](https://finmag.penize.cz/penize/428339-co-s-volnym-milionem-boj-s-inflaci-ocima-expertu) ekonom a propagátor kryptoměn Josef Tětek. Za lepší indikátor považuje růst [měnové zásoby M2](https://www.cnb.cz/cs/statistika/menova_bankovni_stat/narodni_stat_data/mp.htm), který napovídá, že centrální banka „tištěním“ peněz snížila hodnotu koruny za poslední rok o 7,3 procenta, tedy téměř dvojnásobně ve srovnání s oficiální mírou inflace.
 
-Zprůměrovaný index nepopisuje realitu věrně ani podle Michala Skořepy z České spořitelny: „Záleží na tom, v jaké konkrétní životní stuaci jsme. Jaký máme spotřební koš. Ten rozhodně není pro všechny stejný. (…) Nejchudší domácnosti mají bohužel nejvyšší podíl energií a potravin, proto budou na inflaci bity nejvíc,“ [řekl v DVTV](https://video.aktualne.cz/dvtv/skorepa-zchudneme-skoro-vsichni-domacnosti-by-mely-zacit-spo/r~a729efac8ddf11ec9ba00cc47ab5f122/).
+Zprůměrovaný index nepopisuje realitu věrně ani podle Michala Skořepy z České spořitelny: „Záleží na tom, v jaké konkrétní životní situaci jsme. Jaký máme spotřební koš. Ten rozhodně není pro všechny stejný. (…) Nejchudší domácnosti mají bohužel nejvyšší podíl energií a potravin, proto budou na inflaci bity nejvíc,“ [řekl v DVTV](https://video.aktualne.cz/dvtv/skorepa-zchudneme-skoro-vsichni-domacnosti-by-mely-zacit-spo/r~a729efac8ddf11ec9ba00cc47ab5f122/).
 
 Opačným příkladem může být člověk, který má fotovoltaickou elektrárnu nebo vlastní les jako zdroj palivového dřeva a doma kamna s výměníkem: zdražování energií se ho tolik nedotkne.
 
