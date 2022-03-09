@@ -68,6 +68,7 @@
     overflow-x: scroll;
     overflow-y: hidden;
     white-space: nowrap;
+    margin-right: -15px;
   }
   .scroll {
     min-width: 768px;

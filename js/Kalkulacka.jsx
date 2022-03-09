@@ -23,7 +23,7 @@ const spocitejInflaci = (castka, rok, rocniInflace) => {
   const roky = range(minRok, maxRok, 1);
   const inflace = rocniInflace.slice(roky.indexOf(rok), rocniInflace.length);
   const vysledek = inflace.reduce((acc, curr) => {
-    return (acc * (100 - curr)) / 100;
+    return (acc / (100 + curr)) * 100;
   }, castka);
   return Math.floor(vysledek);
 };
@@ -57,7 +57,7 @@ const Kalkulacka = () => {
           value={castka}
           onChange={(e) => setCastka(Number(e.target.value))}
         />
-        <Typography variant="body">z roku</Typography>
+        <Typography variant="body">v roce</Typography>
         <TextField
           id="rok"
           type="number"
@@ -74,7 +74,7 @@ const Kalkulacka = () => {
           onChange={(e) => setRok(Number(e.target.value))}
         />
         <Typography variant="body1">
-          odpovídalo letošním {spocitejInflaci(castka, rok, rocniInflace)} Kč
+          odpovídá letošním {spocitejInflaci(castka, rok, rocniInflace)} Kč
         </Typography>
       </div>
     </fieldset>

@@ -1,5 +1,5 @@
 title: "Popletený Jánošík, boj o moc i ztráta paměti. Inflace má spoustu jmen a ještě víc nepřátel. Spočítejte si, o kolik zdražil život právě vám"
-perex: "Meziroční inflace dosáhla v lednu 9,9 % a byla tak nejvyšší od léta 1998. Ačkoliv ji statistici počítají stále důkladněji, vnímat ji jako jediné číslo platné pro celou společnost je zavádějící. A to paradoxně tím víc, čím vyšší to číslo je. Prozkoumejte s námi, jak zdražují (ale i zlevňují) jednotlivé sledované položky, kdo růst cen pociťuje nejbolestivěji a jak se do něj dále promítne válka."
+perex: "Meziroční inflace dosáhla v lednu 9,9 % a byla tak nejvyšší od léta 1998. Ačkoliv ji statistici počítají stále důkladněji, vnímat ji jako jediné číslo platné pro celou společnost je zavádějící. A to paradoxně tím víc, čím vyšší to číslo je. Prozkoumejte s námi, jak zdražují (ale i zlevňují) jednotlivé sledované položky, kdo růst cen pociťuje nejbolestivěji a jak se do něj promítne válka."
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
 styles: ["https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;700&display=swap"]
@@ -7,10 +7,6 @@ libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 
 ---
-
-<wide>
-<div id="root"></div>
-</wide>
 
 Ještě před měsícem analytici České národní banky předpovídali, že bude inflace [kulminovat na jaře](https://www.cnb.cz/cs/menova-politika/prognoza/) a v druhé polovině roku 2022 začne klesat k hodnotám, na které jsme byli posledních třináct let zvyklí. Ruská invaze na Ukrajinu podobný optimismus vyloučila.
 
@@ -25,14 +21,13 @@ Válečnými operacemi a sankcemi zvýšené ceny plynu, elektřiny či pohonný
 </picture>
 </wide>
 
-
-Rusko před válkou dodávalo do Evropy téměř 40 procent spotřeby zemního plynu a čtvrtinu importované ropy. Zemní plyn se nepoužívá jen k produkci tepla a elektřiny, ale i při výrobě hnojiv, jejichž zvýšené ceny se mohou projevit v cenách zemědělských výrobků.
+Rusko před válkou dodávalo do Evropy téměř 40 procent spotřeby zemního plynu a čtvrtinu importované ropy. Zemní plyn se nepoužívá jen k produkci tepla a elektřiny, ale i při výrobě hnojiv, jejichž zvýšené ceny se projeví v cenách zemědělských výrobků.
 
 Ukrajina je transportní uzel pro zmíněné suroviny, ale také světově významý exportér obilovin, rostlinného oleje, oceli nebo například neonu, používaného při výrobě procesorů.
 
-Není tedy divu, že mnohé komodity po napadení Ukrajiny Ruskem začaly ještě víc zdražovat. Ceny ropy a zemního plynu se přiblížily historickým maximům.
+Není tedy divu, že mnohé komodity po napadení Ukrajiny Ruskem začaly ještě víc zdražovat. Cena ropy je nejvyšší od roku 2008, zemní plyn v Evropě dosáhl historického maxima.
 
-„Centrální banky se obávají, že dočasné, pandemií vyvolané poruchy v dodávkách zboží a surovin mohou (kvůli válce – pozn. red.) přerůst v samoudržující se cyklus trvale vyšší inflace,“ [napsaly](https://www.ft.com/content/615b5680-5206-48de-ab08-83ee62daf149) v redakčním komentáři britské Financial Times. Situace podle nich připomíná začátek 70. let, kdy [Jomkipurská válka](https://cs.wikipedia.org/wiki/Jomkipursk%C3%A1_v%C3%A1lka) rozdmýchala již existující tendence ke znehodnocování peněz a způsobila v západních zemích stagflaci, tedy období úpadku, kdy byla inflace rychlejší než hospodářský růst, a lidé proto zchudli.
+„Centrální banky se obávají, že dočasné, pandemií vyvolané poruchy v dodávkách zboží a surovin mohou (kvůli válce – pozn. red.) přerůst v samoudržující se cyklus trvale vyšší inflace,“ [napsaly](https://www.ft.com/content/615b5680-5206-48de-ab08-83ee62daf149) v redakčním komentáři britské Financial Times. Situace podle nich připomíná začátek 70. let, kdy [Jomkipurská válka](https://cs.wikipedia.org/wiki/Jomkipursk%C3%A1_v%C3%A1lka) rozdmýchala již existující tendence ke znehodnocování peněz a způsobila v západních zemích stagflaci. Období úpadku, kdy byla inflace rychlejší než hospodářský růst, a lidé proto zchudli.
 
 ## Jedno číslo nestačí
 
@@ -53,20 +48,6 @@ Co s vašimi penězi po několika letech udělá i zdánlivě mírná inflace v 
 
 <div id="kalkulacka"></div>
 
->GRAF 1 [data](https://data.irozhlas.cz/inflace/data/grafy/graf1.xlsx)
-
->V souvislosti s inflací se pravidelně objevují čtyři základní ukazatele.
-
->Všechna vyjadřují vážený průměr změn spotřebitelských cen. Liší se v tom, jaké období sledují a s jakým obdobím ho porovnávají.
-
->- Meziměsíční – Zvýšení nebo snížení průměrných cen v daném měsíci ve srovnání s předchozím měsícem. Nejvýraznější bývá zdražování v lednu, kdy vstupují v platnost nové ceníky nebo nové sazby daní.
-
->- Meziroční – Zvýšení nebo snížení průměrných cen v daném měsíci ve srovnání se stejným měsícem předchozího roku. Porovnáním stejných měsíců se vylučují sezónní výkyvy.
-
->- Klouzavý průměr za 12 měsíců – Zvýšení nebo snížení průměrných cen za posledních 12 měsíců ve srovnání s 12 měsíci, které tomuto období předcházely. Bere se v úvahu zejména při propočtech reálných mezd a důchodů.
-
->- Průměrná roční míra inflace – Číslo, které „vstupuje do historie“. Jde o výsledek klouzavého průměru každý rok v prosinci. Slouží hlavně k porovnání dlouhých časových řad (1991 byla 56,6 %, 1993 20,8 %, 1998 10,7 %).
-
 <wide>
 <picture >
     <source srcset="https://data.irozhlas.cz/inflace/img/typy-inflaci-mob.svg" media="(max-width: 600px)">
@@ -78,7 +59,7 @@ Zleva i zprava přibývá ekonomů upozorňujících, že podobně [jako u mezd]
 
 „Index spotřebních cen zachycuje pouze část poklesu kupní síly a není příliš vypovídající,“ [řekl například na webu Finmag](https://finmag.penize.cz/penize/428339-co-s-volnym-milionem-boj-s-inflaci-ocima-expertu) ekonom a propagátor kryptoměn Josef Tětek. Za lepší indikátor považuje růst [měnové zásoby M2](https://www.cnb.cz/cs/statistika/menova_bankovni_stat/narodni_stat_data/mp.htm), který napovídá, že centrální banka „tištěním“ peněz snížila hodnotu koruny za poslední rok o 7,3 procenta, tedy téměř dvojnásobně ve srovnání s oficiální mírou inflace.
 
-Zprůměrovaný index nepopisuje realitu věrně ani podle Michala Skořepy z České spořitelny: „Záleží na tom, v jaké konkrétní životní stuaci jsme. Jaký máme spotřební koš. Ten rozhodně není pro všechny stejný. (…) Nejchudší domácnosti mají bohužel nejvyšší podíl potravin, proto budou na inflaci bity nejvíc,“ [řekl v DVTV](https://video.aktualne.cz/dvtv/skorepa-zchudneme-skoro-vsichni-domacnosti-by-mely-zacit-spo/r~a729efac8ddf11ec9ba00cc47ab5f122/).
+Zprůměrovaný index nepopisuje realitu věrně ani podle Michala Skořepy z České spořitelny: „Záleží na tom, v jaké konkrétní životní stuaci jsme. Jaký máme spotřební koš. Ten rozhodně není pro všechny stejný. (…) Nejchudší domácnosti mají bohužel nejvyšší podíl energií a potravin, proto budou na inflaci bity nejvíc,“ [řekl v DVTV](https://video.aktualne.cz/dvtv/skorepa-zchudneme-skoro-vsichni-domacnosti-by-mely-zacit-spo/r~a729efac8ddf11ec9ba00cc47ab5f122/).
 
 Opačným příkladem může být člověk, který má fotovoltaickou elektrárnu nebo vlastní les jako zdroj palivového dřeva a doma kamna s výměníkem: zdražování energií se ho tolik nedotkne.
 
@@ -86,15 +67,19 @@ Opačným příkladem může být člověk, který má fotovoltaickou elektrárn
 
 Z [výpočtů ekonomů z CERGE](https://pep.vse.cz/pdfs/pep/2016/01/05.pdf) vyplývá, že jen kolem 60 procent domácností je vystaveno cenovým nárůstům v podobné výši jako průměrná míra inflace. Navíc čím vyšší je průměrná inflace, tím menší procento domácností bylo vystaveno nárůstu cen blízko tomuto průměru.
 
-„Po většinu sledovaného období (1995-2010 – pozn. red.) byly nízkopříjmové domácnosti a domácnosti důchodců vystaveny signifikantně vyšším nárůstům cen, než byla míra inflace,“ píší Pavel Hait a Petr Janský. Jejich práce vyšla před osmi lety, závěry lze ovšem vztáhnout i na současné zdražování.
+„Po většinu sledovaného období (1995-2010 – pozn. red.) byly nízkopříjmové domácnosti a domácnosti důchodců vystaveny signifikantně vyšším nárůstům cen, než byla míra inflace,“ píší Pavel Hait a Petr Janský.
 
-> GRAF2: reprezentativnost oficiální míry inflace z této práce? strana 9 (https://www.cerge-ei.cz/pdf/wp/Wp508.pdf)
+„Toto bych nepovažoval za univerzálně aplikovatelný zákon,“ doplňuje ekonom Marek Šedivý z Fakulty sociálních věd Univerzity Karlovy. „Bude to vždy záviset na struktuře inflace. Teoreticky, pokud celková inflace například 10 % bude způsobena stejným růstem všech cen v ekonomice, pak nízko- i vysokopříjmové skupiny budou vystaveny stejné inflaci. Podle posledních dat ceny energií, které tvoří větší část spotřebního koše nízkopříjmových domácností, rostou více než CPI (celkový index spotřebitelských cen - pozn. red.). Nicméně například ceny potravin a nealko nápojů, které budou pro nízkopříjmové také významější, rostly méně než CPI. Tudíž se nedá jednoduše dojít k závěru, že by nízkopříjmové domácnosti musely být inflací více zasaženy.“
 
-„Z dat vyplývá, že čím rychleji se mění průměrné ceny, tím různorodější inflace je,“ [ukazuje na sérii grafů](https://economicsfromthetopdown.com/2021/11/24/the-truth-about-inflation/) i kanadský politický ekonom Blair Fix. Inflace je podle něj mocenským bojem o to, kdo dokáže ceny zvýšit nejrychleji – a to jsou podle něj obvykle velké firmy. Na zdražování tak mohou vydělat ještě víc než zadlužené vlády, jejichž reálný dluh se znehodnocováním peněz snižuje.
+<wide>
+<div id="switcher"></div>
+</wide>
+
+„Z historických dat vyplývá, že čím rychleji se mění průměrné ceny, tím různorodější inflace je,“ [ukazuje na sérii grafů](https://economicsfromthetopdown.com/2021/11/24/the-truth-about-inflation/) kanadský politický ekonom Blair Fix. Inflace je v jeho podání mocenským bojem o to, kdo dokáže ceny zvýšit nejrychleji – a to jsou podle něj obvykle velké firmy. Na zdražování tak mohou vydělat ještě víc než zadlužené vlády, jejichž reálný dluh se znehodnocováním peněz snižuje.
 
 ## Od sunaru po kremaci
 
-Číslo, které se pro vyjádření inflace nejčastěji používá, udává navýšení váženého průměru cen zboží a služeb v typickém [spotřebním koši](https://www.czso.cz/csu/czso/spotrebni_kos_archiv). V tom českém najdeme přes osm set položek („reprezentantů“) od kondomu, sušeného mléka a dětského míče až po poplatek za sepsání závěti a kremaci. Každá položka má přitom přesně stanovenou váhu: potraviny celkem 17,7 procenta, bydlení a energie 25 procent, vzdělávání půl procenta.
+Číslo, které se pro vyjádření inflace nejčastěji používá, udává navýšení váženého průměru cen zboží a služeb v typickém [spotřebním koši](https://www.czso.cz/csu/czso/spotrebni_kos_archiv). V tom českém najdeme sedm set položek („reprezentantů“) od kondomu, sušeného mléka a dětského míče až po poplatek za sepsání závěti a kremaci. Každá položka má přitom přesně stanovenou váhu: potraviny celkem 17,7 procenta, bydlení a energie 25 procent, vzdělávání půl procenta.
 
 <wide>
 <picture >
@@ -103,7 +88,7 @@ Z [výpočtů ekonomů z CERGE](https://pep.vse.cz/pdfs/pep/2016/01/05.pdf) vypl
 </picture>
 </wide>
 
-Statistici při tom vycházejí z [národních účtů](https://www.czso.cz/documents/10180/24433595/32019814c05.pdf/a7e7254f-6289-4ce5-bc36-08060537db92?version=1.0), tedy z databáze, která se snaží zaúčtovat hospodářské transakce celé země. Údaje doplňují statistikou [rodinných účtů](https://www.czso.cz/csu/vykazy/statistika_rodinnych_uctu), výzkumem, při kterém si tři tisíce domácností zastupujících všechny společenské vrstvy zapisují do deníčků veškeré příjmy a výdaje. Váha, kterou jednotlivým cenovým reprezentantům ve spotřebním koši přisuzují, odpovídá podílu daného typu útraty na celkové spotřebě domácností.
+Statistici při tom vycházejí z [národních účtů](https://www.czso.cz/documents/10180/24433595/32019814c05.pdf/a7e7254f-6289-4ce5-bc36-08060537db92?version=1.0), tedy z databáze, která se snaží přehleldně zaúčtovat hospodářské transakce celé země. Údaje doplňují statistikou [rodinných účtů](https://www.czso.cz/csu/vykazy/statistika_rodinnych_uctu), výzkumem, při kterém si tři tisíce domácností zastupujících všechny společenské vrstvy zapisují do deníčků veškeré příjmy a výdaje. Váha, kterou jednotlivým cenovým reprezentantům ve spotřebním koši přisuzují, odpovídá podílu daného typu útraty na celkové spotřebě domácností.
 
 Tazatelky ([ČSÚ o nich referuje v ženském rodě](https://www.statistikaamy.cz/2015/02/22/inflace-jak-a-proc-se-v-cesku-pocita/)) potom zjišťují aktuální ceny. Buď zajdou do některého z osmi a půl tisíce vytipovaných obchodů rozmístěných po celé republice, nebo se čím dál častěji podívají na internet. Případně automaticky zpracují [data z pokladen maloobchodních řetězců](https://www.statistikaamy.cz/2018/09/18/scanner-data-zvysuji-kvalitu-vypoctu-miry-inflace/).
 
@@ -140,11 +125,6 @@ Právě složení spotřebního koše může výsledek výpočtu zásadně ovliv
 V Česku například cena za tukový rohlík překonala už loni na podzim magickou hranici 2 Kč a v některých obchodech se prodává i za 2,30 Kč. Ceny se zvyšují prakticky u všech druhů zboží. Nejvíce je to znát u margarinů, které některé obchody zdražily i o 10 Kč.
 
 Vedle energií a potravin pohání českou inflaci tzv. imputované nájemné. Do něj se počítají ceny nových bytů a domů, náklady na jejich renovaci a údržbu nebo poplatky realitním kancelářím. Vzhledem k rekordním cenám nemovitostí to má na výslednou inflaci značný vliv. Mezi experty se dlouhodobě [vede spor, zda by se měly tyto položky počítat do spotřeby, nebo jestli nejde spíš o investice](https://www.hypoindex.cz/clanky/chceme-nizsi-inflaci-imputujme-imputovane-najemne/).
-
-<wide>
-<div id="switcher"></div>
-</wide>
-
 
 ## Ztráta paměti i přeformátování společnosti
 
@@ -197,3 +177,7 @@ Podobně to vidí guvernér ČNB Rusnok: „Inflace nás všechny vlastně zdaň
 Podle [studie PAQ Research](https://idea.cerge-ei.cz/images/COVID/PAQ_Research/2135_Energie_v27.pdf) z konce loňského roku, kdy ještě nebylo možné do zdražení energií započíst válku na Ukrajině, bude letos nejchudší pětina domácností dávat za bydlení víc než dvě třetiny rozpočtu. U pětiny nejbohatších domácností to mělo být v průmětu 18 procent. Vyrovnat tento nepoměr by podle autorů studie měl nový způsob výpočtu příspěvku na bydlení.
 
 Výraznější roli státu při mírnění dopadů inflace prosazují v [redakčním komentáři](https://www.ft.com/content/615b5680-5206-48de-ab08-83ee62daf149) i již citované Financial Times: „Nakonec to bude rozpočtová politika vlád, která bude muset ochránit před následky vysokých cen ty nejzranitelnější. Rozhodnutí vlád nedokáže snížit ceny surovin. Může ale zajistit, že náklady ponese celá společnost rovným dílem, místo aby nechala hladovět jen některé, až na ně v plné síle dopadne kombinované zdražení jídla a energií.“
+
+<wide>
+<div id="root"></div>
+</wide>
