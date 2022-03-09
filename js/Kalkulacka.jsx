@@ -41,7 +41,7 @@ const Kalkulacka = () => {
           borderLeftColor: "#d52834",
         }}
       >
-        <TextField
+        {/* <TextField
           id="castka"
           type="number"
           sx={{ maxWidth: "50px" }}
@@ -51,9 +51,23 @@ const Kalkulacka = () => {
           variant="standard"
           value={castka}
           onChange={(e) => setCastka(Number(e.target.value))}
+        /> */}
+        <input
+          type="number"
+          value={castka}
+          min={0}
+          max={9999999999}
+          style={{
+            width: "12ch",
+            backgroundColor: "#f8fbfb",
+            borderTop: "none",
+            borderLeft: "none",
+            borderRight: "none",
+          }}
+          onChange={(e) => setCastka(Number(e.target.value))}
         />
         <Typography variant="body1">Kč v roce</Typography>
-        <TextField
+        {/* <TextField
           id="rok"
           type="number"
           sx={{ maxWidth: "50px" }}
@@ -65,6 +79,20 @@ const Kalkulacka = () => {
           inputProps={{
             max: maxRok,
             min: minRok,
+          }}
+          onChange={(e) => setRok(Number(e.target.value))}
+        /> */}
+        <input
+          type="number"
+          value={rok}
+          min={minRok}
+          max={maxRok}
+          style={{
+            width: "6ch",
+            backgroundColor: "#f8fbfb",
+            borderTop: "none",
+            borderLeft: "none",
+            borderRight: "none",
           }}
           onChange={(e) => setRok(Number(e.target.value))}
         />
