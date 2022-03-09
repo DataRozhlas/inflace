@@ -15,6 +15,13 @@ import Barchart from "./Barchart.jsx";
 const isMobile = window.innerWidth < 769;
 
 const theme = createTheme({
+  palette: {
+    primary: {
+      main: "#267080",
+      dark: "#B1CBD1",
+      light: "#D8E5E8",
+    },
+  },
   typography: { fontFamily: '"Fira Sans", "Helvetica", "Arial", sans-serif' },
 });
 

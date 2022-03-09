@@ -40,10 +40,10 @@
 }
 
 .circle {
-  width: 12rem;
-  height: 12rem;
+  width: 13rem;
+  height: 13rem;
   border-radius: 50%;
-  background-color: rgba(175, 175, 175, 0.726);
+  background-color: #d8e5e8;
 }
 
 .barchart {

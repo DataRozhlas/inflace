@@ -3,7 +3,7 @@ import { Typography, Box } from "@mui/material";
 
 function Bar({ n, v, v2, k, isMobile }) {
   const vyskaGrafu = 150;
-  const sirkaSloupce = isMobile ? 18 : 24;
+  const sirkaSloupce = isMobile ? 18 : 48;
 
   const barContainer = useRef();
   const blueBar = useRef();
@@ -42,14 +42,14 @@ function Bar({ n, v, v2, k, isMobile }) {
           ref={blueBar}
           width={`${sirkaSloupce}`}
           height={`${v2 / 2.2}`}
-          fill="#7aaacc"
+          fill="#7DA9B3"
         ></rect>
         <rect
           ref={outlineBar}
           height={`${v / 2.2}`}
           width={`${sirkaSloupce}`}
           fill="none"
-          stroke="black"
+          stroke="#4D4D4D"
           strokeWidth="1px"
         ></rect>
       </svg>
@@ -57,7 +57,7 @@ function Bar({ n, v, v2, k, isMobile }) {
         <Typography
           variant={"caption"}
           align={"center"}
-          sx={{ marginTop: "0.5rem" }}
+          sx={{ marginTop: "0.5rem", lineHeight: "1.1rem" }}
         >
           {n}
         </Typography>
