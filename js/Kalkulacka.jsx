@@ -1,8 +1,7 @@
 import React from "react";
-import TextField from "@mui/material/TextField";
-import Typography from "@mui/material/Typography";
+import { Typography, Input } from "@mui/material";
 
-const isMobile = window.innerWidth < 769;
+//const isMobile = window.innerWidth < 769;
 
 const rocniInflace = [
   1.4, 9.7, 56.6, 11.1, 20.8, 10, 9.1, 8.8, 8.5, 10.7, 2.1, 3.9, 4.7, 1.8, 0.1,
@@ -52,7 +51,7 @@ const Kalkulacka = () => {
           value={castka}
           onChange={(e) => setCastka(Number(e.target.value))}
         /> */}
-        <input
+        <Input
           type="number"
           value={castka}
           min={0}
@@ -82,13 +81,13 @@ const Kalkulacka = () => {
           }}
           onChange={(e) => setRok(Number(e.target.value))}
         /> */}
-        <input
+        <Input
           type="number"
           value={rok}
           min={minRok}
           max={maxRok}
           style={{
-            width: "6ch",
+            width: "8ch",
             backgroundColor: "#f8fbfb",
             borderTop: "none",
             borderLeft: "none",
