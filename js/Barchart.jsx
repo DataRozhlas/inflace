@@ -38,7 +38,7 @@ const slozeniKoseVsechny = [
 
 function Barchart({ vybranyKos, isMobile }) {
   return (
-    <div className={"components barchart"}>
+    <div className={"components barchart-spotrebni-kos"}>
       {slozeniKoseVsechny.map((item, index) => {
         const v2 = vybranyKos.kos[index];
         return (
