@@ -63,7 +63,7 @@ const Kalkulacka = () => {
             borderLeft: "none",
             borderRight: "none",
           }}
-          onChange={(e) => setCastka(Number(e.target.value))}
+          onChange={e => setCastka(Number(e.target.value))}
         />
         <Typography variant="body1">Kč v roce</Typography>
         {/* <TextField
@@ -93,10 +93,10 @@ const Kalkulacka = () => {
             borderLeft: "none",
             borderRight: "none",
           }}
-          onChange={(e) => setRok(Number(e.target.value))}
+          onChange={e => setRok(Number(e.target.value))}
         />
         <Typography variant="body1">
-          odpovídá letošním {spocitejInflaci(castka, rok, rocniInflace)} Kč
+          odpovídá {spocitejInflaci(castka, rok, rocniInflace)} Kč v roce 2022
         </Typography>
       </div>
     </fieldset>
